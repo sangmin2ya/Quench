@@ -1,0 +1,1102 @@
+{
+    "items":[
+     {
+      "objectName": "Village_Constellation",
+      "itemName": "과학책 : 북쪽의 높은 별",
+      "itemType": "Clue",
+      "popUpType": "Book",
+      "sourceImage": "Constellation book",
+      "itemDescription": "-",
+      "itemText": "북극성은 항상 북쪽에 머무는 별이다.\n\n북극성을 쉽게 찾는 두 가지 방법이 있다.\n\n 1) 북쪽을 알고 있다면 밤에 북쪽을 바라본다.\n 2) 주변 별자리의 배치를 보고, 그림처럼 거리를 재 찾아낸다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_FairyTale",
+      "itemName": "어린이 동화책 1",
+      "itemType": "Clue",
+      "popUpType": "Book",
+      "sourceImage": "Pyramid Book",
+      "itemDescription": "-",
+      "itemText": "먼 옛날에 태양신 라께서는 깊은 지하에 거대하고 멋진 피라미드를 지으시고, 그 안에 전설의 보물을 봉인하셨대요.",
+      "isVolatile": false
+     },
+     {
+        "objectName": "Village_FairyTale2",
+        "itemName": "어린이 동화책 2",
+        "itemType": "Clue",
+        "popUpType": "Book",
+        "sourceImage": "Obelisk Book",
+        "itemDescription": "-",
+        "itemText": "그리고 북쪽의 가장 밝게 빛나는 수호자와 그의 일곱 신하들로 하여금 지하로 가는 입구를 지키게 하셨답니다.",
+        "isVolatile": false
+       },
+     {
+      "objectName": "Village_Smith",
+      "itemName": "대장간 거래기록",
+      "itemType": "Clue",
+      "popUpType": "Book",
+      "sourceImage": "TradeRecords",
+      "itemDescription": "-",
+      "itemText": "물건을 거래한 기록\n눈에 띄는 <color=\"yellow\">거래 하나<\/color>를 제외하고는\n대부분은 카라반과의 거래이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Cave_Granpa'sDiary",
+      "itemName": "할아버지의 일지",
+      "itemType": "Clue",
+      "popUpType": "Book",
+      "sourceImage": "Granph'sRecord",
+      "itemDescription": "-",
+      "itemText": "십년 전 이 사막에서 행방불명된 할아버지의 일지다. \n고고학자였던 할아버지가 목숨을 걸고 찾아다녔던 보물에 관한 정보가 적혀있다.\n나도 할아버지의 염원을 이루어 드리고, 혹시 살아계신다면 다시 만날 수 있기를 바라며 이 사막에 발을 디뎠다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Cave_EmptyWaterBottle",
+      "itemName": "수통",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "bottle",
+      "itemDescription": "비어있는 수통",
+      "itemText": "단 한방울도 물이 남아있지 않는 수통\n보고있으면 갈증이 심해지는 것 같다.\n벌써 물을 못 마신지 오래다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Cave_EmptyBackpack",
+      "itemName": "배낭",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "backpack",
+      "itemDescription": "속이 텅 빈 배낭.",
+      "itemText": "이 사막에 들어올 때 챙겨왔던 배낭.\n이미 내용물들은 모두 사용했거나 잃어버렸다.\n찾아봐도 쓸모있는 건 없어보인다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Top_EmptyBackpack",
+      "itemName": "배낭",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "backpack",
+      "itemDescription": "무언가 들어있는 배낭",
+      "itemText": "어째서 여기에 올라와있는지 모를 배낭.\n쓸모있는건 없어보인다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_OldLetter",
+      "itemName": "오래된 편지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "누군가의 가방에서 떨어져있다.",
+      "itemText": "(-)xxx 에게(-)\n지금까지 조사해 본 바 <color=\"yellow\">오벨리스크<\/color>가 <color=\"yellow\">지하세계의 입구<\/color>와 큰 연관이 있어보여\n근처 마을에서 이에 대한 정보를 찾아봐줘\n \n(뒤의 글은 손상되어 읽을 수 없다.)",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_Someone's Memo",
+      "itemName": "누군가가 남긴 쪽지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어딘가의 위치를 나타내는 것 같다. ",
+      "itemText": "(-)거래 접선지역\n<color=\"yellow\">아치형 바위<\/color>사이로 바라보았을 때,\n<color=\"yellow\">카라반의 상징<\/color>이 가르키는 곳.\n신호는 모닥불을 통해서.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Oasis_Caravan's Scroll",
+      "itemName": "카라반 대장의 기록",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "카라반 이름들이 적혀있는 두루마리",
+      "itemText": "이 사막에서 활동하는 카라반의 이름들이 빼곡히 적혀있다. \n예전에는 많은 카라반들이 활동했던 모양이지만, 모두 지워져있고 하나의 이름만 남아있다. \n<color=\"yellow\">오른쪽 깃발<\/color>을 확인해보자.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Oasis_Diary",
+      "itemName": "마을 청년의 일기",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Book",
+      "itemDescription": "대부분이 찢어져 몇 장 남지 않은 일기",
+      "itemText": "(-) xxx년 3월 5일\n오늘 카라반들에게서 이곳에 <color=\"yellow\">어떤 보물<\/color>이 묻혀있다는 이야기를 들었어. 순간 혹했지만 <color=\"yellow\">무서운 저주<\/color>에 걸릴거라고 하도 겁을 줘서 그냥 관뒀어. 참나, 저주를 누가 믿는다고.\n\n(-) xxx년 4월 11일\n도굴꾼들이 요즘들어 주변을 돌면서 <color=\"yellow\">무언가<\/color>를 찾고 있는 것 같아. \n혹시 전에 들은 그 보물이 아닐까? 듣자하니 이 오아시스 근처에 아예 <color=\"yellow\">주둔지<\/color>를 만들었다던데..",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Oasis_Caravan'sFlag",
+      "itemName": "카라반의 깃발",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "CaravanFlag",
+      "itemDescription": "카라반의 상징인 붉은 쌍둥이 바위 문양이 그려져있다.",
+      "itemText": "<color=\"yellow\">쌍둥이 바위 카라반<\/color>은 수백년 전부터 이 사막을 횡단하던 카라반이다.\n사막에서 살아남는 법을 그 누구보다도 잘 알고있다.\n<color=\"yellow\">붉은 쌍둥이 돌 문양<\/color>은 그들이 주로 휴식처로 삼았던 장소에서 가져왔다고 전해진다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "TwinRock_Caravan'sFlag",
+      "itemName": "카라반의 깃발",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "CaravanFlag",
+      "itemDescription": "카라반의 상징인 붉은 쌍둥이 바위 문양이 그려져있다.",
+      "itemText": "<color=\"yellow\">쌍둥이 바위 카라반<\/color>은 수백년 전부터 이 사막을 횡단하던 카라반이다.\n사막에서 살아남는 법을 그 누구보다도 잘 알고있다.\n<color=\"yellow\">붉은 쌍둥이 돌 문양<\/color>은 그들이 주로 휴식처로 삼았던 장소에서 가져왔다고 전해진다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Oasis_NormalDiary",
+      "itemName": "누군가의 일기",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Book",
+      "itemDescription": "거의 다 헤진 일기",
+      "itemText": "대부분의 내용은 읽기 힘들정도로 풍화되어 있다. \n알아 볼 수 있는 내용은 없어보인다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Oasis_MoneyBag",
+      "itemName": "가죽 주머니",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Coin",
+      "itemDescription": "돈이 가득 들어있는 주머니",
+      "itemText": "누군가가 미처 챙기지 못한 돈 주머니이다.\n상당한 금액이지만\n지금은 딱히 쓸모가 없어보인다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "WreckedShip_Record",
+      "itemName": "선원의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Book",
+      "itemDescription": "이 배의 선원이 남긴 일지",
+      "itemText": "대체 이 바다에서 어떻게 빠져나가야 하는지 모르겠다.\n몇 일째 이 곳에서 빙빙 돌고있는건지...\n<color=\"yellow\">무언가<\/color> 우리를 이곳에 가둬두려고 하는게 분명하다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Signboard",
+      "itemName": "부서진 간판",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "SignBoard",
+      "itemDescription": "낡고 헤진 간판",
+      "itemText": "입구가 부서지면서 떨어진 간판이다.\n” <color=\"red\">도굴단 야영지<\/color> “",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Soup",
+      "itemName": "버섯 수프",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Soup",
+      "itemDescription": "차갑게 식어 있는 수프다.",
+      "itemText": "만들어졌지만 한 숟가락도 건드려지지 않은 스프다. \n만든 주인은 어딘가로 급하게 불려나갔던 걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Sack",
+      "itemName": "포대자루",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sack",
+      "itemDescription": "이상한 냄새를 풍기고 있는 포대자루다.",
+      "itemText": "포대 안에서 말로 형용하기 힘든 냄새가 난다. \n평소에 정리를 잘 하지 않은 듯 하다",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_LogHeap1",
+      "itemName": "통나무 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Logheap_Long",
+      "itemDescription": "통나무들이 가지런히 쌓여 있다.",
+      "itemText": "꽤나 큰 통나무 더미이다. \n이 깊은 지하에 이 정도로 많은 통나무를?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_LogHeap2",
+      "itemName": "통나무 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Logheap_Long",
+      "itemDescription": "통나무들이 가지런히 쌓여 있다.",
+      "itemText": "꽤나 큰 통나무 더미이다. \n이 깊은 지하에 이 정도로 많은 통나무를?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_LogHeap3",
+      "itemName": "통나무 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Logheap_Long",
+      "itemDescription": "통나무들이 가지런히 쌓여 있다.",
+      "itemText": "꽤나 큰 통나무 더미이다. \n이 깊은 지하에 이 정도로 많은 통나무를?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_MonsterLib",
+      "itemName": "동물의 갈비뼈",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Lib",
+      "itemDescription": "거대한 크기의 동물 갈비뼈",
+      "itemText": "어느 시대의 것인지도 모를 법한 거대한 동물의 갈비뼈이다.\n해당 시대의 동물이 “갈비” 라는 부위를 가지고 있었다면 말이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_MonsterSkull",
+      "itemName": "동물의 머리뼈",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Skull",
+      "itemDescription": "거대한 크기의 동물 머리뼈",
+      "itemText": "어느 시대의 것인지도 모를 법한 거대한 동물의 머리뼈이다.\n… 아무리 그래도 “머리” 라고 부르는데 큰 문제는 없을 것이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_OpenedBarrel1",
+      "itemName": "텅 빈 나무통",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "OpenedBarrel",
+      "itemDescription": "속이 텅 비어있는 나무통",
+      "itemText": "이미 텅 비어버린 나무통이다.\n아직도 달콤한 술 냄새가 은은하게 남아있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_OpenedBarrel2",
+      "itemName": "텅 빈 나무통",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "OpenedBarrel",
+      "itemDescription": "속이 텅 비어있는 나무통",
+      "itemText": "이미 텅 비어버린 나무통이다.\n아직도 달콤한 술 냄새가 은은하게 남아있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_LockedBarrel",
+      "itemName": "잠겨 있는 나무통",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "LockedBarrel",
+      "itemDescription": "속이 꽉 차 있는 나무통",
+      "itemText": "알 수 없는 물건이 가득 들어있는 잠겨있는 나무통이다.\n얼마나 애지중지 하는지 꽉 잠겨있다.\n누가 봐도 여기에 사용될 법한 자물쇠는 아니다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_LargeChest",
+      "itemName": "묵직한 나무 상자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "LargeChest",
+      "itemDescription": "잠겨 있지 않은 큰 나무 상자",
+      "itemText": "자물쇠로 잠겨 있지 않은 커다란 나무 상자, 내부는 비어있다.\n누가 봐도 여기에 사용될 자물쇠가 다른 곳에 사용되고 있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_SmallChest",
+      "itemName": "가벼운 나무 상자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "SmallChest",
+      "itemDescription": "작은 나무 상자",
+      "itemText": "집 구석에 놓여 있는 작은 나무 상자다.\n근처로 가니 이상한 냄새가 나는 것으로 보아, 굳이 열어보지 않기로 했다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Shelve",
+      "itemName": "텅 빈 나무 책장",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Shelve",
+      "itemDescription": "비어 있는 책장, 먼지는 그리 많지 않다.",
+      "itemText": "텅 비어있는 나무 책장이다.\n책장 내부는 먼지로 가득 차지 않은 것으로 보아\n원래는 책으로 가득 차 있었던 것 같다.\n그 많은 책들은 다 어디로 간걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_MysteriousBox",
+      "itemName": "천이 덮힌 상자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "MysteriousBox",
+      "itemDescription": "누가 봐도 수상한 상자",
+      "itemText": "수상할 정도로 혼자 천으로 덮혀 있는 나무 상자다.\n괜히 외부인이 건드렸다는 흔적을 남기고 싶지 않은 물건이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_WoodPlank1",
+      "itemName": "못 박힌 판자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "WoodPlank",
+      "itemDescription": "가장 위쪽에 위치한 판자",
+      "itemText": "집 안으로 들어가지 못하게 막아두는 판자다.\n가장 위쪽 못이 제대로 박히지 못했다.\n몇몇 못은 아래에서 대각선으로 이상하게 박혀있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_WoodPlank2",
+      "itemName": "못 박힌 판자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "WoodPlank",
+      "itemDescription": "중간에 위치한 판자",
+      "itemText": "집 안으로 들어가지 못하게 막아두는 판자다.\n위쪽과 달리 모든 못이 정상적으로 박혀있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_WoodPlank3",
+      "itemName": "못 박힌 판자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "WoodPlank",
+      "itemDescription": "가장 아래에 위치한 판자",
+      "itemText": "집 안으로 들어가지 못하게 막아두는 판자다.\n모든 판자 중 가장 견고하게 못이 박혀있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_AxeOnTheWall",
+      "itemName": "벽에 박힌 도끼",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "AxeOnTheWall",
+      "itemDescription": "집 벽에 깊게 박혀있는 도끼",
+      "itemText": "벽에 박혀 있는 커다란 도끼다.\n집의 입구도 막혀있고… 혹시 이 집을 땔감으로 쓰려고 했던 걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Pot",
+      "itemName": "불타고 있는 솥",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Pot",
+      "itemDescription": "활활 타고 있는 솥",
+      "itemText": "이미 모두 다 끓어 불에 달궈지기만 하고 있는 불쌍한 솥이다.\n이대로 가다간 완전히 그을릴 것 같지만 너무 뜨거워 건드리기 어렵다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_CombatDummy1",
+      "itemName": "상처 없는 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "CombatDummy",
+      "itemDescription": "상처 없이 깨끗한 더미",
+      "itemText": "어느 누구에게도 상처 받지 않은 깨끗한 전투 더미다.\n이 친구에게로 향해야 할 공격이 아마 다른 곳으로 가버린 게 아닐까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_CombatDummy2",
+      "itemName": "고슴도치 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "CombatDummy",
+      "itemDescription": "화살이 빼곡하게 꽂힌 더미",
+      "itemText": "수많은 화살에 의해 고슴도치가 되어 버린 전투 더미다.\n마치 자기 옆 친구의 화살까지도 본인이 다 맞은 것 같다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_CombatDummy3",
+      "itemName": "도끼가 박힌 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "CombatDummy",
+      "itemDescription": "도끼가 박혀 있는 더미",
+      "itemText": "화살 대신 커다란 도끼가 꽂혀 있는 전투 더미다.\n훈련자가 화살보다는 도끼를 더 선호했던 것 같다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_BowStanded1",
+      "itemName": "잘 정리된 활",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Bow",
+      "itemDescription": "보관함에 잘 세워져 있는 활",
+      "itemText": "보관함에 잘 보관되어 있는 활이다.\n사용 후 정리된 것인지, 애초부터 꺼내어진 적 조차 없는 것인지는 알 길이 없다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_BowStanded2",
+      "itemName": "대충 세워둔 활",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Bow",
+      "itemDescription": "사격장 옆에 세워진 활",
+      "itemText": "사격장 옆에 대충 세워져 있는 활이다.\n정면에 보이는 전투 더미에는 꽂혀있는 화살이 없는데…\n일단 여기에서 화살을 쏘긴 했다는 걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_BowLaid",
+      "itemName": "사격장 위에 올려진 활",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Bow",
+      "itemDescription": "다음 사람을 위해 준비된 활",
+      "itemText": "사격장 책상 위에 가지런히 올려져 있는 활이다.\n정면에 보이는 전투 더미를 보아, 명사수임에 틀림 없을 것이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Sword1",
+      "itemName": "잘 보관된 검",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sword",
+      "itemDescription": "보관함에 잘 세워져 있는 검",
+      "itemText": "보관함에 잘 보관되어 있는 검이다.\n손잡이는 낡고 바랬지만, 날만은 매우 잘 관리되고 있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Sword2",
+      "itemName": "잘 보관된(?) 검",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sword",
+      "itemDescription": "보관함에 잘 세워져(?) 있는 검",
+      "itemText": "보관함에 잘 보관되어(?) 있는 검이다.\n손잡이는 낡고 바랬지만, 날만은 매우 잘…\n아니 잠깐, 다시 보니 땅바닥에 그냥 꽂아버린 검이다. 날 상태가 형편없다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Shield",
+      "itemName": "반짝거리는 새 방패",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Shield",
+      "itemDescription": "스크래치 하나 없는 방패",
+      "itemText": "거의 새거나 다름 없는 방패다\n사용자가 있었는지 조차 의문이지만\n사용자가 있었다면 애초에 방패가 필요하지 않은 실력자 였을 것이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd1",
+      "itemName": "벽에 붙어있는 종이",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sign",
+      "itemDescription": "-",
+      "itemText": "다음과 같이 쓰여 있다\n\" 시작부터 종점이라... 운도 지지리 없구만? \"",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd2",
+      "itemName": "엄청 오래된 듯 한 두개골",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "HumanSkull",
+      "itemDescription": "-",
+      "itemText": "오랜 세월이 지난 듯한 해골이 놓여있다.\n여기에서 쓰러지다니 엄청난 길치였음에 틀림없다.\n.... 내가 할 말은 아닌가?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd3",
+      "itemName": "탐험가(자칭)의 일지",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Memo",
+      "itemDescription": "-",
+      "itemText": "자신의 운명을 예감한 듯 바닥에 누워있는 해골이 있다.\n그 옆에는 다음과 같은 일지가 놓여있다.\n\" 왼오오왼... 아니... 오왼왼오 였나? 출구는 고사하고 입구는 어디야? \"",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd4_1",
+      "itemName": "오래된 삽",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Shovel",
+      "itemDescription": "-",
+      "itemText": "도굴꾼들이나 사용할 법한 물건들이 구석에 널부러져 있다.\n장비도 챙겨가지 않다니, 장비를 포기할 정도로 대단한 것을 얻은 듯 하다.\n... 근데 여기에 둔 장비는 안 찾아 간걸까 못 찾아 간걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd4_2",
+      "itemName": "오래된 삽",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Shovel",
+      "itemDescription": "-",
+      "itemText": "도굴꾼들이나 사용할 법한 물건들이 구석에 널부러져 있다.\n장비도 챙겨가지 않다니, 장비를 포기할 정도로 대단한 것을 얻은 듯 하다.\n... 근데 여기에 둔 장비는 안 찾아 간걸까 못 찾아 간걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd4_3",
+      "itemName": "오래된 삽",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Shovel",
+      "itemDescription": "-",
+      "itemText": "도굴꾼들이나 사용할 법한 물건들이 구석에 널부러져 있다.\n장비도 챙겨가지 않다니, 장비를 포기할 정도로 대단한 것을 얻은 듯 하다.\n... 근데 여기에 둔 장비는 안 찾아 간걸까 못 찾아 간걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd5",
+      "itemName": "바위에 깔린 해골",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "HumanSkull",
+      "itemDescription": "-",
+      "itemText": "한 순간에 세상을 떠난 듯한 누군가가 보인다.\n막다른 길인 건 억울하지만 나보다 더 억울한 사람도 있었다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd5_Rock",
+      "itemName": "해골을 깔아뭉갠 바위",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rock",
+      "itemDescription": "-",
+      "itemText": "한 순간에 누군가를 세상에서 떠나게 만든 돌\n나보다 더 억울한 사람을 만들어준 장본인이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd6_1",
+      "itemName": "텅 빈 술병",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rum",
+      "itemDescription": "-",
+      "itemText": "과거, 이 곳에서 소박한 술자리가 있었음을 알려주는 흔적들이다.\n이 복잡한 미로에서 무슨 생각으로 이런 술판을 벌인걸까?\n자신감? 혹은 마지막 만찬?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd6_2",
+      "itemName": "텅 빈 술병",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rum",
+      "itemDescription": "-",
+      "itemText": "과거, 이 곳에서 소박한 술자리가 있었음을 알려주는 흔적들이다.\n이 복잡한 미로에서 무슨 생각으로 이런 술판을 벌인걸까?\n자신감? 혹은 마지막 만찬?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd6_3",
+      "itemName": "텅 빈 술병",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rum",
+      "itemDescription": "-",
+      "itemText": "과거, 이 곳에서 소박한 술자리가 있었음을 알려주는 흔적들이다.\n이 복잡한 미로에서 무슨 생각으로 이런 술판을 벌인걸까?\n자신감? 혹은 마지막 만찬?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd6_4",
+      "itemName": "텅 빈 술병",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rum",
+      "itemDescription": "-",
+      "itemText": "과거, 이 곳에서 소박한 술자리가 있었음을 알려주는 흔적들이다.\n이 복잡한 미로에서 무슨 생각으로 이런 술판을 벌인걸까?\n자신감? 혹은 마지막 만찬?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_DeadEnd6_5",
+      "itemName": "텅 빈 술병",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rum",
+      "itemDescription": "-",
+      "itemText": "과거, 이 곳에서 소박한 술자리가 있었음을 알려주는 흔적들이다.\n이 복잡한 미로에서 무슨 생각으로 이런 술판을 벌인걸까?\n자신감? 혹은 마지막 만찬?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_Shortcut",
+      "itemName": "벽에 걸린 표지판",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sign",
+      "itemDescription": "-",
+      "itemText": "고대 xx 언어로 다음과 같이 쓰여 있다.\n\" 이 앞, 샛길 있다. \"",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_Treasure",
+      "itemName": "<color=\"red\">태양의 눈물</color>",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Treasure",
+      "itemDescription": "-",
+      "itemText": "고대 기록에서 보았던 휘황찬란한 보석이다.\n시간의 저주를 풀 수 있는 유일한 수단이며\n할아버지가 평생 찾아헤맸던 보물이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "MiniPyramid",
+      "itemName": "피라미드의 일각",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Pyrimid",
+      "itemDescription": "아담한 사이즈의 피라미드",
+      "itemText": "다른 피라미드와 비교하면 작은 피라미드다.\n물론 아래 파묻힌 부분의 크기가 어느정도인지는\n알 방도가 없다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_WaterTower",
+      "itemName": "물탱크 ",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "WaterTower",
+      "itemDescription": "마르고 부식된 물탱크",
+      "itemText": "구멍이 뚫리고 부식되어 본연의 임무를 다하지 못하게 된 물탱크. \n당연하지만 물 한방울 남아있지 않아 보인다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_ LogHeap",
+      "itemName": "장작 더미",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "LogHeap",
+      "itemDescription": "어지럽게 쌓여있는 장작더미",
+      "itemText": "누군가 활용할 목적으로 쌓아둔 듯 하지만 부식되고 모래에 파묻혀 있어 활용하기 어려워 보인다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_WineGlass",
+      "itemName": "와인잔",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "WineGlass",
+      "itemDescription": "모래로 가득 차 있는 와인잔",
+      "itemText": "안쪽에는 달콤한 와인 대신 모래만이 가득 차 있다.\n이 잔이 방치된 기간을 나타내주는 듯 하다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Defaultbook1",
+      "itemName": "책",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Book",
+      "itemDescription": "낡은 책",
+      "itemText": "이미 헤져버린 책이다.\n표지에는 무언가 쓰여있지만 글자가 지워져 무엇이 쓰여있는지 알 수 없다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Defaultbook2",
+      "itemName": "책",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Book",
+      "itemDescription": "낡은 책",
+      "itemText": "이미 헤져버린 책이다.\n표지에는 \"행복한 가정을 만드는 법\"이라고 쓰여있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Defaultbook3",
+      "itemName": "책",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Book",
+      "itemDescription": "낡은 책",
+      "itemText": "이미 헤져버린 책이다.\n표지에는 \"엄마의 손맛 100% 재현\"이라고 쓰여있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Well",
+      "itemName": "우물",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Well",
+      "itemDescription": "말라버린 낡은 우물",
+      "itemText": "마을사람들이 사용했었던 우물이다. \n사람의 손이 끊긴지 오래인듯하다. \n당연하게도 바닥에는 모래만이 가득하다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Box",
+      "itemName": "나무 박스",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Box",
+      "itemDescription": "낡은 나무 박스",
+      "itemText": "무언가를 저장하기 위한 용도로 만들어졌다.\n안에는 이전에 살던 사람들이 사용하던 약간의 그릇등과 옷가지들이 조금 남아있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_BarShelf",
+      "itemName": "나무 선반",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "BarShelf",
+      "itemDescription": "금방이라도 떨어질 것 같은 나무 선반",
+      "itemText": "위에는 술병들이 어지럽게 늘어져 있다.\n아마 주점으로 쓰였던 듯 하다. \n그러나 지금은 술도, 취기도 모두 말라버렸다. ",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Jug",
+      "itemName": "깨진 토기",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "BrokenJug",
+      "itemDescription": "산산조각 나버린 토기",
+      "itemText": "무언가를 담는 용도로 만들어진게 분명하나 \n지금은 산산조각나서 아무것도 담지 못하게 되어버렸다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Torch",
+      "itemName": "꺼진 화로",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Torch",
+      "itemDescription": "꺼져버린 화로",
+      "itemText": "마을의 밤을 밝히는 용도로 사용되었던 화로\n지금은 재밖에 남아있지 않다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_TrivialBook",
+      "itemName": "일기",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Memo",
+      "itemDescription": "어느 어린 소년의 일기",
+      "itemText": "다음과 같은 고뇌의 흔적이 적혀있다: \n\"점순아, 나 너 사랑하냐? 으악! 이것도 아니야! 대체 어떻게 고백해야하지?\" \n뒷장은 찢어져 있다...",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_BrokenChair",
+      "itemName": "나무 의자",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "BrokenChair",
+      "itemDescription": "반으로 부러진 의자",
+      "itemText": "무슨 일이 있었던 건지 처참하게 부러져 있다.\n부부싸움이라도 있었던 걸까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_GardenPointer",
+      "itemName": "표지판",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Notice",
+      "itemDescription": "정원의 표지판 ",
+      "itemText": "\"노아 부부의 정원 - 들어가지 마시오\" 라고 쓰여 있다.\n표지판의 뒤로 잡초로 무성해진 정원이 보인다.\n지금은 관리가 안되는 듯 하다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_AshTray",
+      "itemName": "재떨이",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "AshTray",
+      "itemDescription": "버려진 재떨이",
+      "itemText": "담뱃재가 가득 차 있는 금속 재질의 재떨이다.\n오래되어 더는 궐련의 향기가 느껴지지 않는다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Axe",
+      "itemName": "도끼",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Axe",
+      "itemDescription": "이 빠진 도끼",
+      "itemText": "오래되고 부식되어 이가 다 빠져 버렸다.\n이걸로는 토끼 한 마리도 죽일 수 없을 것 같다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Pot",
+      "itemName": "매달린 냄비",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Pot",
+      "itemDescription": "모닥불 위에 매달려있는 냄비",
+      "itemText": "모닥불은 꺼져있고, 냄비 바닥은 전부 타버렸다\n더 이상 요리를 할 수 있을 것 같지는 않다",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Village_Fermentation",
+      "itemName": "발효주",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sack",
+      "itemDescription": "썩어 악취가 나는 발효주",
+      "itemText": "아주 오래전에 밀로 만들어진 발효주.\n오래 방치된 세월을 증명하듯\n이미 곰팡이가 가득 뒤덮여 있어 마실 수 없다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_WayPointer",
+      "itemName": "표지판",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Waypoint",
+      "itemDescription": "-",
+      "itemText": "이 앞은 스톤헨지 : 죽은 자들의 성역",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_Interactable_01",
+      "itemName": "거대 입석",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Stonehenge",
+      "itemDescription": "입석 유적지의 바위",
+      "itemText": "특이하게도 거대한 바위를 수직으로 세우고,\n그 위에 가로로 돌을 얹은 형태를 띠고 있다.\n누가, 무슨 목적으로 이러한 구조를 만들었지는 불명이다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_Interactable_02",
+      "itemName": "제단 바위",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "SacrificialAltar",
+      "itemDescription": "길고 넓적한 바위",
+      "itemText": "정면에 보이는 `태양신 라`의 조각상에 \n제물을 바치는 목적으로 사용했던 듯한 바위이다.\n화려한 금으로 도금되어 있다. ",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_Interactable_03",
+      "itemName": "쌍둥이 입석",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "TwinStonehenge",
+      "itemDescription": "입석 유적지의 쌍둥이 바위",
+      "itemText": "특이하게도 입석 유적 두개가 붙어있는 구조이다.\n누가, 무슨 목적으로 이러한 구조를 만들었지는 불명이다.\n태양력 계산을 위한 도구라는 설이 있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_Interactable_04",
+      "itemName": "제단 바위",
+      "itemType": "None ",
+      "popUpType": "Normal",
+      "sourceImage": "PreSacrificialStone",
+      "itemDescription": "넓적한 바위",
+      "itemText": "제물을 바치기 전에 희생양을 손질하는 목적으로 사용했던 듯한 바위이다. \n자세히 보면 작은 뼛조각들이 여기저기 널브러져 있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_GodOfSun",
+      "itemName": "거대 석판",
+      "itemType": "None ",
+      "popUpType": "Normal",
+      "sourceImage": "HieroglyphsStone",
+      "itemDescription": "상형문자가 새겨진 거대 석판",
+      "itemText": "침식되어 잘 알아볼 수는 없지만 죽은 자들이\n'태양신 라'의 곁으로 가서 영원한 안식을 얻을 수 있길\n기원하는 기도문이 적혀있는 것 같다 .",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Stonehenge_RaStatue",
+      "itemName": "태양신의 석상",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "RaStatue",
+      "itemDescription": "태양신의 모양을 본딴 석상",
+      "itemText": "화려한 황금 장식, 위용찬 사자의 모습에서 태양신의 기상이 느껴지는 듯 하다.\n만들어진지 오래 됐음에도 거의 부식되지 않았다.\n4개의 오벨리스크가 석상을 보호하듯 둘러싸고 있다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_0",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">0<\/color>이라는 숫자가 새겨져 있다.",
+      "itemText": "모두를 인도해주는 하늘의 밝은 별이 가르키는 장소가 오히려 어두운 곳으로 들어가는 입구가 되리니.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_1",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">1<\/color>이라는 숫자가 새겨져 있다.",
+      "itemText": "태초에, 태양신 라께서 만물을 창조하시며 모든 것의 시작과 끝을 예견하시고 깊은 슬픔을 느끼셨도다. 그러하여 그분의 눈에서 한 방울의 눈물이 흘러내렸느니라.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_2",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">2<\/color>라는 숫자가 새겨져 있다.",
+      "itemText": "그 눈물은 지상의 땅에 떨어져 찬란한 보석으로 변하였고,\n인간들은 이를 <color=\"yellow\">'태양의 눈물'<\/color>이라 부르며 경배하였느니라.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_3",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">3<\/color>이라는 숫자가 새겨져 있다.",
+      "itemText": "이 존귀한 <color=\"yellow\">'태양의 눈물'<\/color>을 소유한 자는 소용돌이치는 <color=\"yellow\">시간의 흐름<\/color>을 제어할 수 있는 신성한 힘을 지니게 되느니라.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_4",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">4<\/color>라는 숫자가 새겨져 있다.",
+      "itemText": "그리하여 세상은 <color=\"yellow\">'태양의 눈물'<\/color>을 차지하여 시간을 되돌리려는 탐욕스러운 자들로 인해 피비린내가 사라질 날 없었도다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_5",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">5<\/color>라는 숫자가 새겨져 있다.",
+      "itemText": "이 참혹한 광경을 목도한 태양신 라께서는 지하 깊숙한 곳에 <color=\"yellow\"> 거대한 피라미드<\/color>를 세우시고, 그 심장부에 <color=\"yellow\">'태양의 눈물'<\/color>을 봉인하사 다시는 세상에 풀려나지 못하도록 하셨도다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_6",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">6<\/color>이라는 숫자가 새겨져 있다.",
+      "itemText": "그럼에도 불구하고 이를 욕망하는 자들은 그 소원대로<color=\"yellow\">'태양의 눈물'<\/color>을 찾을때까지 시간의 감옥에 갇혀 무한한 세월을 방황하게 되리라.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Hieroglyph_7",
+      "itemName": "오벨리스크",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Hieroglyph",
+      "itemDescription": "커다란 오벨리스크. <color=\"yellow\">7<\/color>이라는 숫자가 새겨져 있다. ",
+      "itemText": "감히 신의 능력을 탐하는 어리석은 자여, 그대는 이 황량한 사막에 갇혀 영원히 끔찍한 갈증과 고통 속에서 끝없이 고통의 윤회를 반복하게 될지니라.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "SkeletonCampsite_Wagon1",
+      "itemName": "수레",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Wagon",
+      "itemDescription": "작은 돌이 가득 담긴 수레",
+      "itemText": "모래밖에 보이지 않는 이 곳에서 많은 돌을 나르고 있는 수레\n어디에서 돌을 가져온 것일까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "SkeletonCampsite_Wagon2",
+      "itemName": "수레",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Wagon",
+      "itemDescription": "벽돌이 가득 담긴 수레",
+      "itemText": "벽돌 같이 생긴 큰 돌들을 옮기는 수레\n옆에 있는 수레에 담긴 돌들보다 크기도 크고 양도 더 많다",
+      "isVolatile": false
+     },
+     {
+      "objectName": "SkeletonCampsite_Wagon3",
+      "itemName": "수레",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Wagon",
+      "itemDescription": "텅 빈 수레",
+      "itemText": "다른 수레와 다르게 텅 비어있는 수레\n그것 외에는 특별한 것이 보이지 않는다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "SkeletonCampsite_Coin",
+      "itemName": "동전",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Coin",
+      "itemDescription": "수북히 쌓여 있는 동전",
+      "itemText": "꽤나 두둑하게 쌓여 있는 동전\n도둑질은 해서도 안되거니와 어차피 현재 나에겐 전혀 가치가 없다.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "SkeletonCampsite_Rock",
+      "itemName": "큰 바위",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Rock",
+      "itemDescription": "큰 바위",
+      "itemText": "임시 캠프 근처에 쌓여 있는 바위들\n양이 대단히 많아보이지는 않는데 이렇게 많은 수레가 필요한가?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "SkeletonCampsite_Sign",
+      "itemName": "표지판",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Sign",
+      "itemDescription": "경고 표지판",
+      "itemText": "붉은 글씨, 매우 강조된 필체로 다음과 같이 쓰여있다.\n\" <color=\"red\">여기서 땡땡이 치지말고 반대편에 있는<\/color> <color=\"yellow\">스톤헨지</color><color=\"red\">에서 돌이라도 캐와!<\/color> \"",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Underground_Memo",
+      "itemName": "구겨진 쪽지",
+      "itemType": "None",
+      "popUpType": "Normal",
+      "sourceImage": "Memo",
+      "itemDescription": "색이 바랜 낡은 쪽지",
+      "itemText": "흘린 것인지, 버린 것인지 알 수 없는 쪽지다.\n다음과 같이 쓰여있다.\n\" <color=\"red\">통로에 불 좀 켜라, 넌 야영지 돌아가는 길이 보이냐?<\/color> \"",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Maze_Treasure",
+      "itemName": "태양의 눈물",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Gemstone",
+      "itemDescription": "밝게 빛나고 있는 봉인된 보석",
+      "itemText": "고대 기록에서 보았던 휘황찬란한 보석이다.\n시간의 저주를 풀기 위해선 이 보석이 꼭 필요하다.",
+      "isVolatile": true
+      },
+      {
+      "objectName": "Village&Ship_Grandfather'sDiary",
+      "itemName": "어느 고고학자의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어느 고고학자가 휘갈겨 쓴 일지 #1",
+      "itemText": "여기까지 왔는데 <color=\"yellow\">‘태양의 눈물’<\/color>을 포기할 순 없어. 억울하게 죽임 당한 내 딸을 위해, 또 어미없이 살아갈 내 손자를 위해 나는 시간을 되돌려야만 해.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "ShelterNearOasis_Grandfather'sDiary",
+      "itemName": "어느 고고학자의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어느 고고학자가 휘갈겨 쓴 일지 #2",
+      "itemText": "우연히 버려진 마을 주변을 탐사하다가 카라반을 만났어. 카라반의 도움을 받아 이 사막에서 잠시 벗어나려고 했지만, 몸이 통째로 튀겨질듯한 더위에 가로막혀 도저히 나갈 수가 없군. 설마 그 저주가 진짜일줄이야.",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Pyramid_Grandfather'sDiary",
+      "itemName": "어느 고고학자의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어느 고고학자가 휘갈겨 쓴 일지 #3",
+      "itemText": "이 작은 피라미드는 대체 뭐지? 옆을 약간 파봤는데 지하까지 깊게 연결된 모양이야. 그냥 돌 같진 않아보이고 분명히 뭔가 있어 보이는데..",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Oasis_Grandfather'sDiary",
+      "itemName": "어느 고고학자의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어느 고고학자가 휘갈겨 쓴 일지 #4",
+      "itemText": "물이 있을 거라고 생각하고 신나서 다가갔지만, 오아시스의 물은 신기루에 불과했어. 오아시스 반대편에 거대한 스톤헨지 유적이 있던데, 거기에는 뭔가 단서가 있을까?",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Obelisk_Grandfather'sDiary",
+      "itemName": "어느 고고학자의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어느 고고학자가 휘갈겨 쓴 일지 #5",
+      "itemText": "이 오벨리스크들의 위치… 북두칠성의 국자 모양을 그대로 재현했어. 이것이 의미하는게 뭘까? 이 발견은 희망의 신호탄일까 아니면 또 다른 절망의 길일 뿐인가..",
+      "isVolatile": false
+     },
+     {
+      "objectName": "ShelterNearPyramid_Grandfather'sDiary",
+      "itemName": "어느 고고학자의 일지",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemDescription": "어느 고고학자가 휘갈겨 쓴 일지 #6",
+      "itemText": "이 지긋지긋한 사막에서 목이 말라 쓰러지고, 다시 일어나 보석에 대한 정보를 찾고, 또다시 사막 어딘가에서 죽음을 반복한지 벌써 375일째… 이 저주받은 땅에서 더는 버틸 힘이 없어…",
+      "isVolatile": false
+     },
+     {
+      "objectName": "Grandfather'sPhoto",
+      "itemName": "어느 고고학자의 사진",
+      "itemType": "Clue",
+      "popUpType": "Book",
+      "sourceImage": "PhotoOfGrandfather",
+      "isVolatile": false
+     }
+    ]
+    }

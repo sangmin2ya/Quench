@@ -1,0 +1,233 @@
+{
+"items":[
+ {
+  "objectName": "Village_Constellation",
+  "itemName": "과학책 : 북쪽의 높은 별",
+  "itemType": "Clue",
+  "popUpType": "Book",
+  "sourceImage": "Constellation book",
+  "itemDescription": "-",
+  "itemText": "항상 북쪽에 머무는 북극성은, 밤에 북쪽을 보면 나타난다.\n\n북극성을 쉽게 찾는 두 가지 방법이 있다.\n\n 1) 북쪽을 알고 있다면 밤에 북쪽을 바라본다.\n 2) 주변 별자리의 배치를 보고, 그림처럼 거리를 재 찾아낸다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Village_FairyTale",
+  "itemName": "어린이 동화책",
+  "itemType": "Clue",
+  "popUpType": "Book",
+  "sourceImage": "Pyramid Book",
+  "itemDescription": "-",
+  "itemText": "먼 옛날에는 지하에 거대하고 멋진 피라미드를 지어놓고 사는 사람들이 있었대요. \n피라미드에 전설의 보물이 있다는 소문을 듣고 많은 사람들이 찾아가려 했지만 \n지하로 가는 길은 지하의 백성이 아니면 아무도 몰랐대요.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Village_Smith",
+  "itemName": "대장간 거래기록",
+  "itemType": "Clue",
+  "popUpType": "Book",
+  "sourceImage": "TradeRecords",
+  "itemDescription": "-",
+  "itemText": "물건을 거래한 기록\n눈에 띄는 거래 하나를 제외하고는\n대부분은 카라반과의 거래이다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Cave_Granpa'sDiary",
+  "itemName": "할아버지의 일지",
+  "itemType": "Clue",
+  "popUpType": "Book",
+  "sourceImage": "Granph'sRecord",
+  "itemDescription": "-",
+  "itemText": "내가 여기에 있는 이유이다.\n할아버지가 평생을 바쳐 찾았던 유물에 관한 정보가 적혀있다.\n'보석, 피라미드, 시간' 과 같은 문구들이 낙서처럼 적혀있다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Cave_EmptyWaterBottle",
+  "itemName": "수통",
+  "itemType": "Clue",
+  "popUpType": "Normal",
+  "sourceImage": "bottle",
+  "itemDescription": "비어있는 수통",
+  "itemText": "단 한방울도 물이 남아있지 않는 수통\n보고있으면 갈증이 심해지는 것 같다.\n벌써 물을 못 마신지 오래다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Cave_EmptyBackpack",
+  "itemName": "배낭",
+  "itemType": "None",
+  "popUpType": "Normal",
+  "sourceImage": "backpack",
+  "itemDescription": "속이 텅 빈 배낭.",
+  "itemText": "이 사막에 들어올 때 챙겨왔던 배낭.\n이미 내용물들은 모두 사용했거나 잃어버렸다.\n찾아봐도 쓸모있는 건 없어보인다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Stonehenge_OldLetter",
+  "itemName": "오래된 편지",
+  "itemType": "Clue",
+  "popUpType": "Normal",
+  "sourceImage": "Scroll",
+  "itemDescription": "누군가의 가방에서 떨어져있다.",
+  "itemText": "(-)xxx 에게(-)\n지금까지 조사해 본 바 <color=\"yellow\">오벨리스크<\/color>가 <color=\"yellow\">지하세계의 입구<\/color>와 큰 연관이 있어보여\n근처 마을에서 이에 대한 정보를 찾아봐줘\n \n(뒤의 글은 손상되어 읽을 수 없다.)",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Stonehenge_Someone's Memo",
+  "itemName": "누군가가 남긴 쪽지",
+  "itemType": "Clue",
+  "popUpType": "Normal",
+  "sourceImage": "Scroll",
+  "itemDescription": "어딘가의 위치를 나타내는 것 같다. ",
+  "itemText": "(-)거래 접선지역\n<color=\"yellow\">아치형 바위<\/color>사이로 바라보았을 때,\n<color=\"yellow\">카라반의 상징<\/color>이 가르키는 곳.\n신호는 모닥불을 통해서.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Oasis_Caravan's Scroll",
+  "itemName": "카라반 대장의 기록",
+  "itemType": "Clue",
+  "popUpType": "Normal",
+  "sourceImage": "Scroll",
+  "itemDescription": "카라반 이름들이 적혀있는 두루마리",
+  "itemText": "이 사막에서 활동하는 카라반의 이름들이 빼곡히 적혀있다. \n예전에는 많은 카라반들이 활동했던 모양이지만, 모두 지워져있고 하나의 이름만 남아있다. \n<color=\"yellow\">오른쪽 깃발<\/color>을 확인해보자.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Oasis_Diary",
+  "itemName": "마을 청년의 일기",
+  "itemType": "Clue",
+  "popUpType": "Normal",
+  "sourceImage": "Book",
+  "itemDescription": "대부분이 찢어져 몇 장 남지 않은 일기.",
+  "itemText": "(-) xxx년 3월 5일\n오늘 카라반과의 이야기를 엿들었는데 이곳에 어떤 보물이 묻혀있다는 이야기를 들었어\n(-) xxx년 4월 11일\n도굴꾼들이 요즘들어 주변을 돌면서 무언가를 찾고 있는 것 같아. \n혹시 전에 들은 그 보물이 아닐까?",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Oasis_Caravan'sFlag",
+  "itemName": "카라반의 깃발",
+  "itemType": "Clue",
+  "popUpType": "Normal",
+  "sourceImage": "CaravanFlag",
+  "itemDescription": "카라반의 상징인 붉은 쌍둥이 바위 문양이 그려져있다.",
+  "itemText": "<color=\"yellow\">쌍둥이 바위 카라반<\/color>은 수백년 전부터 이 사막을 횡단하던 카라반이다.\n사막에서 살아남는 법을 그 누구보다도 잘 알고있다.\n<color=\"yellow\">붉은 쌍둥이 돌 문양<\/color>은 그들이 주로 휴식처로 삼았던 장소에서 가져왔다고 전해진다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Oasis_NormalDiary",
+  "itemName": "누군가의 일기",
+  "itemType": "None",
+  "popUpType": "Normal",
+  "sourceImage": "Book",
+  "itemDescription": "거의 다 헤진 일기",
+  "itemText": "대부분의 내용은 읽기 힘들정도로 풍화되어 있다. \n알아 볼 수 있는 내용은 없어보인다.",
+  "isVolatile": false
+ },
+ {
+  "objectName": "Oasis_MoneyBag",
+  "itemName": "가죽 주머니",
+  "itemType": "None",
+  "popUpType": "Normal",
+  "sourceImage": "TempItem",
+  "itemDescription": "돈이 가득 들어있는 주머니",
+  "itemText": "누군가가 미처 챙기지 못한 돈 주머니이다.\n상당한 금액이지만\n지금은 딱히 쓸모가 없어보인다.",
+  "isVolatile": false
+ },
+ {
+    "Stonehenge_WayPointer": "Stonehenge_Interactable_01",
+    "표지판": "거대 입석",
+    "None": "None",
+    "Normal": "Normal",
+    "Waypoint": "Stonehenge",
+    "-": "입석 유적지의 바위",
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": "\"특이하게도 거대한 바위를 수직으로 세우고,",
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "그 위에 가로로 돌을 얹은 형태를 띠고 있다.",
+    "표지판": null,
+    "None": null,
+    "Normal": null,
+    "Waypoint": null,
+    "-": null,
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": null,
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "누가, 무슨 목적으로 이러한 구조를 만들었지는 불명이다.\"",
+    "표지판": "FALSE ",
+    "None": null,
+    "Normal": null,
+    "Waypoint": null,
+    "-": null,
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": null,
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "Stonehenge_Interactable_02",
+    "표지판": "제단 바위",
+    "None": "None",
+    "Normal": "Normal",
+    "Waypoint": "SacrificialAltar",
+    "-": "길고 넓적한 바위",
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": "\"제물을 바치는 목적으로 사용했던 듯한 바위이다.",
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "누구의 피인지 알 수 없는 얼룩덜룩한 핏자국들이",
+    "표지판": null,
+    "None": null,
+    "Normal": null,
+    "Waypoint": null,
+    "-": null,
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": null,
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "돌에 배여 음산한 분위기를 풍긴다.\"",
+    "표지판": "FALSE ",
+    "None": null,
+    "Normal": null,
+    "Waypoint": null,
+    "-": null,
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": null,
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "Stonehenge_Interactable_03",
+    "표지판": "쌍둥이 입석",
+    "None": "None",
+    "Normal": "Normal",
+    "Waypoint": "TwinStonehenge",
+    "-": "입석 유적지의 쌍둥이 바위",
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": "\"특이하게도 입석 유적 두개가 붙어있는 구조이다.",
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "누가, 무슨 목적으로 이러한 구조를 만들었지는 불명이다.",
+    "표지판": null,
+    "None": null,
+    "Normal": null,
+    "Waypoint": null,
+    "-": null,
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": null,
+    "FALSE ": null,
+    "": ""
+},
+{
+    "Stonehenge_WayPointer": "태양력 계산을 위한 도구라는 설이 있다.\"",
+    "표지판": "FALSE ",
+    "None": null,
+    "Normal": null,
+    "Waypoint": null,
+    "-": null,
+    "이 앞은 스톤헨지 : 죽은 자들의 성역": null,
+    "FALSE ": null,
+    "": ""
+}
+]
+}
