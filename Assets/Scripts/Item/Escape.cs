@@ -48,6 +48,7 @@ public class Escape : MonoBehaviour, IInteractable
         GameObject.Find("PlayerCapsule").GetComponent<FirstPersonController>().enabled = false;
         GameObject.Find("PlayerCapsule").GetComponent<PlayerThirstController>().enabled = false;
         _escapeCanvas.SetActive(true);
+        _escapeCanvas.GetComponent<CollectionCount>().SetData();
         Cursor.lockState = CursorLockMode.Confined;
         Cursor.visible = true;
     }

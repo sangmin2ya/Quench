@@ -59,7 +59,7 @@ public class PlayerThirstController : MonoBehaviour
         transform.GetComponent<CharacterController>().enabled = true;
         //wDataManager.Instance.SetStartPoint(new Vector3(-19, -1.5f, 20)); // always reset start point
 
-        transform.rotation = Quaternion.Euler(0, 0, 0);
+        //transform.rotation = Quaternion.Euler(0, 0, 0);
         _currentThirst = DataManager.Instance.getPlayerThirst();
         _input = GetComponent<PlayerInputs>();
         //_postProcessVolume = GameObject.Find("PostProcessVolume").GetComponent<PostProcessVolume>();
@@ -68,8 +68,8 @@ public class PlayerThirstController : MonoBehaviour
         _thirstTextImg = transform.Find("PlayerCanvas/Thirsty").GetComponent<Image>();
         _thirstText = transform.Find("PlayerCanvas/Thirsty/ThirstyTxt").GetComponent<TextMeshProUGUI>();
 
-        if (DataManager.Instance._deathCount == 1) TriggerReviveWarning("...?");
-        else if (DataManager.Instance._deathCount == 2) TriggerReviveWarning("무슨 이유에선가 다시 살아나는 것 같다.");
+        if (DataManager.Instance._deathCount == 1) TriggerReviveWarning(JsonReader.Instance.IngameText("revive_01"));
+        else if (DataManager.Instance._deathCount == 2) TriggerReviveWarning(JsonReader.Instance.IngameText("revive_02"));
         //if (SceneManager.GetActiveScene().name == "Underground") // this position is for official route of underground
         //    transform.position = new Vector3(111.3f, 67.33f, 236.64f);
         // if player enter grave robber's camp by using elevator, should start in different position
@@ -118,7 +118,7 @@ public class PlayerThirstController : MonoBehaviour
         _currentThirst = Mathf.Clamp(_currentThirst, 0, _maxThirst);
         if (_sprintDuration > 5)
         {
-            TriggerRunWarning("달릴수록 갈증이 심해지는 것을 느낀다.\n필요할 때만 달리는 것이 좋겠다.");
+            TriggerRunWarning(JsonReader.Instance.IngameText("run_01"));
         }
     }
 
@@ -126,15 +126,15 @@ public class PlayerThirstController : MonoBehaviour
     {
         if (_currentThirst < _lowThirstThreshold3)
         {
-            TriggerLowThirstWarning3("목이 타들어간다");
+            TriggerLowThirstWarning3(JsonReader.Instance.IngameText("thirst_01"));
         }
         else if (_currentThirst < _lowThirstThreshold2)
         {
-            TriggerLowThirstWarning2("목이 매우 마르다");
+            TriggerLowThirstWarning2(JsonReader.Instance.IngameText("thirst_02"));
         }
         else if (_currentThirst < _lowThirstThreshold1)
         {
-            TriggerLowThirstWarning1("목이 마르기 시작했다");
+            TriggerLowThirstWarning1(JsonReader.Instance.IngameText("thirst_03"));
         }
 
 
@@ -266,7 +266,7 @@ public class PlayerThirstController : MonoBehaviour
         if (other.CompareTag("Outer"))
         {
             _thirstMultiplier = 4f;
-            _thirstText.text = "사막 밖으로 나갈수록 갈증이 심해지는 것을 느낀다.";
+            _thirstText.text = JsonReader.Instance.IngameText("thirst_04");
             StartCoroutine(FadeCoroutine(2f));
             Debug.Log("Exited Area: _thirstMultiplier set to " + _thirstMultiplier);
 

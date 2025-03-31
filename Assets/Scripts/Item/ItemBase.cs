@@ -109,6 +109,8 @@ public class ItemBase : MonoBehaviour, IInteractable
         if(_outLine == null)
             _outLine= GetComponent<Outline>();
         _outLine.enabled = true;
+
+        ScreenManager.Instance.ShowInteractable();
     }
 
     public virtual void OnHoverExit()
@@ -121,6 +123,7 @@ public class ItemBase : MonoBehaviour, IInteractable
         }
 
         _outLine.enabled = false;
+        ScreenManager.Instance.HideInteractable();
     }
 
     public virtual void OnInteract()

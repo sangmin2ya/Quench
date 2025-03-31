@@ -54,6 +54,9 @@ public class ScreenManager : MonoBehaviour
     // Listed PopUp Miscs
     private List<ItemBase> _items;
 
+    // interactable
+    private GameObject _interactGuide;
+
     private string _viewMode;
 
     #endregion
@@ -82,6 +85,11 @@ public class ScreenManager : MonoBehaviour
         _postProc = Camera.main.GetComponent<PostProcessVolume>();
         _popUpMenu = GameObject.Find("Canvas").transform.Find("ItemPopUp").gameObject;
         _listedPopUpMenu = GameObject.Find("Canvas").transform.Find("ListedPopUp").gameObject;
+        if (_interactGuide == null)
+        {
+            _interactGuide = GameObject.Find("InteractGuide").gameObject;
+            _interactGuide.SetActive(false);
+        }
         _popUpType = PopUpType.None;
         _sourceImage = null;
         _listSourceImage = null;
@@ -202,7 +210,7 @@ public class ScreenManager : MonoBehaviour
         PauseGame();
     }
 
-    public void SetListedPopUp(string areaName, string areaDescription, Sprite icon, 
+    public void SetListedPopUp(string areaName, string areaDescription, Sprite icon,
         List<ItemBase> areaItems)
     {
         Transform holder = _listedPopUpMenu.transform.Find("List");
@@ -427,14 +435,14 @@ public class ScreenManager : MonoBehaviour
 
         float currentTime = 0f;
         float duration = 0.5f;
-        
+
         while (currentTime < duration)
         {
             yield return null;
             currentTime += Time.unscaledDeltaTime;
 
             float ratio = currentTime / duration;
-            
+
             switch (_viewMode)
             {
                 case "Normal":
@@ -519,7 +527,6 @@ public class ScreenManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.E) && _isPaused)
         {
-
             switch (_viewMode)
             {
                 case "Normal":
@@ -532,11 +539,26 @@ public class ScreenManager : MonoBehaviour
             }
         }
 
+
         if (_viewMode == "Listed" && _isPaused)
         {
             Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
         }
+        
+    }
+
+    public void ShowInteractable()
+    {
+        if (_interactGuide == null) return;
+
+        _interactGuide.SetActive(true);
+    }
+    public void HideInteractable()
+    {
+        if (_interactGuide == null) return;
+
+        _interactGuide.SetActive(false);
     }
 
     #endregion

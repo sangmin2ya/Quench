@@ -19,6 +19,24 @@ public class DataManager : MonoBehaviour
             return _instance;
         }
     }
+    // 시스템언어에 따라 언어타입을 설정
+    private LanguageType languageType;
+    public LanguageType LanguageType
+    {
+        get
+        {
+            return languageType;
+        }
+        set
+        {
+            //값이 달라지면 언어타입 변경
+            if (languageType != value)
+            {
+                languageType = value;
+                JsonReader.Instance.Initialize(languageType);
+            }
+        }
+    }
     private float _playerThirst;
     private List<CollectionType> _unCollectedItems = new List<CollectionType>();
     private Vector3 _startPoint;// = new Vector3(-19, -1.5f, 20);
@@ -43,7 +61,13 @@ public class DataManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        _startPoint = new Vector3(-20.5f, -1.5f, 28);
+        _startPoint = new Vector3(-20.3f, -1.5f, 28);
+        languageType = Application.systemLanguage switch
+        {
+            SystemLanguage.Korean => LanguageType.Korean,
+            SystemLanguage.English => LanguageType.English,
+            _ => LanguageType.English,
+        };
     }
     private void Initialize()
     {

@@ -25,8 +25,8 @@ public class ToggleSetting : MonoBehaviour
         {
             GameObject.FindWithTag("Player").GetComponent<PlayerInput>().enabled = true;
             settingCanvas.SetActive(false);
-            Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = false;
+            Cursor.lockState = CursorLockMode.Locked;
         }
     }
 }

@@ -23,3 +23,7 @@ public enum PopUpType
 {
     Normal, Book, List, None
 }
+public enum LanguageType
+{
+    English, Korean
+}

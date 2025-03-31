@@ -12,4 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Underground.unity
     guid: 2dcdbdc6715424c49b2b191fa27103fd
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f528a4e62461f464795f2e919c51ea01, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: bb19333722b2fdc468398d8814d9b69a, type: 2}

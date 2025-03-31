@@ -1,0 +1,89 @@
+{
+    "ingameTexts": [
+        {
+            "textID": "textID",
+            "ingameText": "ingameText"
+        },
+        {
+            "textID": "revive_01",
+            "ingameText": "...?"
+        },
+        {
+            "textID": "revive_02",
+            "ingameText": "무슨 이유에선가 다시 살아나는 것 같다."
+        },
+        {
+            "textID": "run_01",
+            "ingameText": "달릴수록 갈증이 심해지는 것을 느낀다.\n필요할 때만 달리는 것이 좋겠다."
+        },
+        {
+            "textID": "thirst_01",
+            "ingameText": "목이 타들어간다"
+        },
+        {
+            "textID": "thirst_02",
+            "ingameText": "목이 매우 마르다"
+        },
+        {
+            "textID": "thirst_03",
+            "ingameText": "목이 마르기 시작했다"
+        },
+        {
+            "textID": "thirst_04",
+            "ingameText": "사막 밖으로 나갈수록 갈증이 심해지는 것을 느낀다."
+        },
+        {
+            "textID": "end_01",
+            "ingameText": "당신은 사막의 비밀을 파헤치지는 못했지만\n카라반의 도움으로 끝없는 죽음의 굴레에서는 탈출할 수 있었습니다.\n그러나 할아버지가 원했던 보물이 무엇인지는 다시는 알 수 없겠죠..."
+        },
+        {
+            "textID": "end_02",
+            "ingameText": "당신은 모든 비밀을 파헤치고 사막의 보물을 얻은 후,\n무사히 카라반의 도움을 받아 사막을 탈출하였습니다.\n할아버지의 숙원을 이룬 당신은 또다시 새로운 여행을 떠납니다."
+        },
+        {
+            "textID": "result_01",
+            "ingameText": "수집품"
+        },
+        {
+            "textID": "result_02",
+            "ingameText": "부활 횟수"
+        },
+        {
+            "textID": "area_01",
+            "ingameText": "폭풍을 피했던 동굴"
+        },
+        {
+            "textID": "area_02",
+            "ingameText": "텅 빈 마을"
+        },
+        {
+            "textID": "area_03",
+            "ingameText": "사막의 난파선"
+        },
+        {
+            "textID": "area_04",
+            "ingameText": "메마른 오아시스"
+        },
+        {
+            "textID": "area_05",
+            "ingameText": "황금 사자상"
+        },
+        {
+            "textID": "area_06",
+            "ingameText": "오래된 스톤 헨지"
+        },
+        {
+            "textID": "area_07",
+            "ingameText": "거대한 뼈 야영지"
+        }
+        ,
+        {
+            "textID": "area_08",
+            "ingameText": "피라미드의 일각"
+        },
+        {
+            "textID": "area_09",
+            "ingameText": "붉은 쌍둥이 바위"
+        }
+    ]
+}

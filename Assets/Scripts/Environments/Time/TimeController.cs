@@ -11,7 +11,7 @@ public class TimeController : MonoBehaviour
     private float _magnitude = 0;
     private void Start()
     {
-        if (DataManager.Instance.GetStartPoint() == new Vector3(-20.5f, -1.5f, 28))
+        if (DataManager.Instance.GetStartPoint() == new Vector3(-20.3f, -1.5f, 28))
         {
             _skyboxMaterial = RenderSettings.skybox;
             _directionalLight = GameObject.Find("Directional Light").transform;

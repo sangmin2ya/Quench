@@ -1,0 +1,1191 @@
+{
+    "items": [
+        {
+            "objectName": "Village_Constellation",
+            "itemName": "Science Book: The High Star in the North",
+            "itemType": "Clue",
+            "popUpType": "Book",
+            "sourceImage": "Constellation book_eng",
+            "itemDescription": "-",
+            "itemText": "Polaris is the star that always stays in the north.\n\nThere are two easy ways to find Polaris.\n\n 1) If you know where north is, look toward it at night.  \n 2) Look at the arrangement of the nearby constellations and estimate the distance like in the picture.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_FairyTale",
+            "itemName": "Children's Storybook 1",
+            "itemType": "Clue",
+            "popUpType": "Book",
+            "sourceImage": "Pyramid Book",
+            "itemDescription": "-",
+            "itemText": "Long ago, the Sun God Ra built a grand and beautiful pyramid deep underground and sealed a legendary treasure inside.  ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_FairyTale2",
+            "itemName": "Children's Storybook 2",
+            "itemType": "Clue",
+            "popUpType": "Book",
+            "sourceImage": "Obelisk Book",
+            "itemDescription": "-",
+            "itemText": "He then had the brightest northern guardian and his seven followers guard the entrance to the underworld.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Smith",
+            "itemName": "Blacksmith's Trade Records",
+            "itemType": "Clue",
+            "popUpType": "Book",
+            "sourceImage": "TradeRecords_eng",
+            "itemDescription": "-",
+            "itemText": "Record of traded goods  \nAside from one <color=\"\"yellow\"\">notable trade<\/color>,  \nmost were with the caravan.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Cave_Granpa'sDiary",
+            "itemName": "Grandfather's Journal",
+            "itemType": "Clue",
+            "popUpType": "Book",
+            "sourceImage": "Granph'sRecord",
+            "itemDescription": "-",
+            "itemText": "A journal from my grandfather, who disappeared in this desert ten years ago.  \nHe was an archaeologist, and this journal contains information about the treasure he risked his life to find.  \nI’ve set foot in this desert hoping to fulfill his wish—and if he’s alive, to meet him once more.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Cave_EmptyWaterBottle",
+            "itemName": "Water Bottle",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "bottle",
+            "itemDescription": "Empty Water Bottle",
+            "itemText": "A canteen with not a single drop of water left.  \nJust looking at it makes me feel more thirsty.  \nIt’s been so long since I last drank.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Cave_EmptyBackpack",
+            "itemName": "Backpack",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "backpack",
+            "itemDescription": "Empty Backpack",
+            "itemText": "A backpack I brought when I entered the desert.  \nIts contents have either been used or lost.  \nNothing useful seems to remain.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Top_EmptyBackpack",
+            "itemName": "Backpack",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "backpack",
+            "itemDescription": "Backpack with Something Inside",
+            "itemText": "A backpack placed up here for reasons unknown.  \nDoesn’t seem to contain anything useful.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_OldLetter",
+            "itemName": "Old Letter",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "Dropped from Someone's Bag",
+            "itemText": "(-) To xxx (-)  \nSo far, it seems this <color=\"\"yellow\"\">obelisk<\/color> has a strong connection to the <color=\"\"yellow\"\">entrance to the underworld<\/color>.  \nPlease search for more information about this from the nearby village.  \n\n(The rest of the note is too damaged to read.)",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_Someone's Memo",
+            "itemName": "A Note Left by Someone",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "Seems to Indicate a Location",
+            "itemText": "(-) Trade rendezvous  \nSeen between <color=\"\"yellow\"\">arch-shaped rocks<\/color>,  \nthe <color=\"\"yellow\"\">caravan symbol<\/color> points the way.  \nThe signal is made using a campfire.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Oasis_Caravan's Scroll",
+            "itemName": "Caravan Leader's Record",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "A Scroll Listing Caravan Names",
+            "itemText": "Names of caravans active in this desert are written densely.  \nMany used to operate here, but most names are now erased—only one remains.  \nCheck the <color=\"\"yellow\"\">right flag<\/color>.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Oasis_Diary",
+            "itemName": "Village Youth's Diary",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Book",
+            "itemDescription": "Diary with Most Pages Torn Out",
+            "itemText": "(-) March 5, xxxx  \nI heard from the caravans that <color=\"\"yellow\"\">some treasure<\/color> is buried here. I was tempted, but they warned me so much about a <color=\"\"yellow\"\">terrible curse<\/color> that I gave up. Ha, as if curses are real.\n\n(-) April 11, xxxx  \nLately, tomb robbers have been snooping around here,  \nseemingly searching for <color=\"\"yellow\"\">something<\/color>.  \nI heard they even set up a <color=\"\"yellow\"\">camp<\/color> near the oasis...",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Oasis_Caravan'sFlag",
+            "itemName": "Caravan Flag",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "CaravanFlag",
+            "itemDescription": "A Red Twin Rock Symbol, the Mark of the Caravan",
+            "itemText": "The <color=\"\"yellow\"\">Twin Rock Caravan<\/color> has crossed this desert for centuries.  \nThey know how to survive here better than anyone.  \nThe <color=\"\"yellow\"\">red twin stone symbol<\/color> was taken from their favored resting spots.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "TwinRock_Caravan'sFlag",
+            "itemName": "Caravan Flag",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "CaravanFlag",
+            "itemDescription": "A Red Twin Rock Symbol, the Mark of the Caravan",
+            "itemText": "The <color=\"\"yellow\"\">Twin Rock Caravan<\/color> has crossed this desert for centuries.  \nThey know how to survive here better than anyone.  \nThe <color=\"\"yellow\"\">red twin stone symbol<\/color> was taken from their favored resting spots.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Oasis_NormalDiary",
+            "itemName": "Someone's Diary",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Book",
+            "itemDescription": "A Heavily Worn Diary",
+            "itemText": "The text is too weathered to be legible.  \nNothing can be clearly made out.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Oasis_MoneyBag",
+            "itemName": "Leather Pouch",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Coin",
+            "itemDescription": "A Pouch Full of Coins",
+            "itemText": "A money pouch someone forgot to take.  \nIt holds quite a bit,  \nbut doesn’t seem particularly useful right now.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "WreckedShip_Record",
+            "itemName": "Sailor's Log",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Book",
+            "itemDescription": "Sailor’s Log",
+            "itemText": "I have no idea how to escape this sea.  \nHow long have we been going in circles here...?  \n<color=\"\"yellow\"\">Something<\/color> is definitely trying to trap us here.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Signboard",
+            "itemName": "Broken Signboard",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "SignBoard",
+            "itemDescription": "Worn and Torn Signboard",
+            "itemText": "A sign that fell when the entrance collapsed.  \n“<color=\"\"red\"\">Tomb Robbers’ Camp<\/color>“",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Soup",
+            "itemName": "Mushroom Soup",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Soup",
+            "itemDescription": "Cold Mushroom Soup",
+            "itemText": "A soup that was made,  \nbut not even a spoonful has been touched.  \nDid the cook get called away suddenly?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Sack",
+            "itemName": "Sack",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sack",
+            "itemDescription": "Sack Emitting a Strange Odor",
+            "itemText": "An indescribably foul smell comes from the sack.  \nSeems like someone who rarely cleaned up.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_LogHeap1",
+            "itemName": "Pile of Logs",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Logheap_Long",
+            "itemDescription": "Neatly Stacked Logs",
+            "itemText": "A rather large pile of logs.  \nBut why would there be so many logs this deep underground?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_LogHeap2",
+            "itemName": "Pile of Logs",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Logheap_Long",
+            "itemDescription": "Neatly Stacked Logs",
+            "itemText": "A rather large pile of logs.  \nBut why would there be so many logs this deep underground?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_LogHeap3",
+            "itemName": "Pile of Logs",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Logheap_Long",
+            "itemDescription": "Neatly Stacked Logs",
+            "itemText": "A rather large pile of logs.  \nBut why would there be so many logs this deep underground?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_MonsterLib",
+            "itemName": "Animal Ribcage",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Lib",
+            "itemDescription": "Large Animal Ribcage",
+            "itemText": "A massive animal rib cage from a time unknown.  \nAssuming creatures back then even had 'ribs' to begin with.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_MonsterSkull",
+            "itemName": "Animal Skull",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Skull",
+            "itemDescription": "Large Animal Skull",
+            "itemText": "A massive animal skull from a time unknown.  \n...Well, calling it a 'skull' shouldn't be much of a problem.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_OpenedBarrel1",
+            "itemName": "Empty Barrel",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "OpenedBarrel",
+            "itemDescription": "Empty Wooden Barrel",
+            "itemText": "A barrel that's already been emptied.  \nA faint scent of sweet alcohol still lingers.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_OpenedBarrel2",
+            "itemName": "Empty Barrel",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "OpenedBarrel",
+            "itemDescription": "Empty Wooden Barrel",
+            "itemText": "A barrel that's already been emptied.  \nA faint scent of sweet alcohol still lingers.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_LockedBarrel",
+            "itemName": "Locked Barrel",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "LockedBarrel",
+            "itemDescription": "Wooden Barrel Filled to the Top",
+            "itemText": "A locked wooden barrel filled with unknown items.  \nIt’s so tightly sealed, someone clearly cherished it.  \nOddly enough, it doesn’t seem to use a standard lock.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_LargeChest",
+            "itemName": "Heavy Wooden Chest",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "LargeChest",
+            "itemDescription": "Unlocked Large Wooden Chest",
+            "itemText": "A large wooden box without a lock, completely empty.  \nIt's obvious the lock meant for this is being used elsewhere.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_SmallChest",
+            "itemName": "Light Wooden Chest",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "SmallChest",
+            "itemDescription": "Small Wooden Chest",
+            "itemText": "A small wooden box placed in the corner of a house.  \nA strange smell nearby convinced me not to open it.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Shelve",
+            "itemName": "Empty Bookshelf",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Shelve",
+            "itemDescription": "Empty Bookshelf, Light on Dust",
+            "itemText": "An empty wooden bookshelf.  \nIt’s not entirely dusty inside,  \nso it was likely once full of books.  \nWhere did they all go?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_MysteriousBox",
+            "itemName": "Cloth-Covered Box",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "MysteriousBox",
+            "itemDescription": "Suspicious Box Anyone Would Avoid",
+            "itemText": "A suspicious wooden box covered with cloth, all by itself.  \nClearly something someone didn’t want touched by outsiders.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_WoodPlank1",
+            "itemName": "Board with Nails",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "WoodPlank",
+            "itemDescription": "Topmost Plank",
+            "itemText": "A plank blocking the way into a house.  \nThe top nail didn’t go in straight.  \nSome nails are oddly driven in diagonally from below.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_WoodPlank2",
+            "itemName": "Board with Nails",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "WoodPlank",
+            "itemDescription": "Middle Plank",
+            "itemText": "A plank blocking the way into a house.  \nUnlike the top one, all nails are properly driven in.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_WoodPlank3",
+            "itemName": "Board with Nails",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "WoodPlank",
+            "itemDescription": "Bottommost Plank",
+            "itemText": "A plank blocking the way into a house.  \nAmong all the planks, this one is the most securely nailed.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_AxeOnTheWall",
+            "itemName": "Axe in the Wall",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "AxeOnTheWall",
+            "itemDescription": "Axe Embedded in the Wall",
+            "itemText": "A large axe embedded in the wall.  \nThe doorway’s blocked too… Were they planning to use the house as firewood?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Pot",
+            "itemName": "Burning Pot",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Pot",
+            "itemDescription": "Blazing Pot",
+            "itemText": "A poor cauldron, already boiling dry and heated red.  \nAt this rate it’ll burn to a crisp,  \nbut it’s too hot to touch.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_CombatDummy1",
+            "itemName": "Pristine Dummy",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "CombatDummy",
+            "itemDescription": "Clean Dummy without a Scratch",
+            "itemText": "A clean training dummy, untouched by any weapon.  \nMaybe the attack meant for it went elsewhere?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_CombatDummy2",
+            "itemName": "Porcupine Dummy",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "CombatDummy",
+            "itemDescription": "Dummy Full of Arrows",
+            "itemText": "A training dummy turned into a porcupine from countless arrows.  \nLooks like it took all the hits meant for the one next to it too.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_CombatDummy3",
+            "itemName": "Dummy with Axe",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "CombatDummy",
+            "itemDescription": "Dummy with an Axe",
+            "itemText": "A training dummy with a large axe stuck in it instead of arrows.  \nLooks like the trainee preferred axes over bows.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_BowStanded1",
+            "itemName": "Well-Organized Bow",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Bow",
+            "itemDescription": "Well-Stored Bow in Rack",
+            "itemText": "A bow neatly stored in a rack.  \nNo way to tell whether it was used and put back,  \nor if it’s never been taken out at all.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_BowStanded2",
+            "itemName": "Carelessly Placed Bow",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Bow",
+            "itemDescription": "Bow Resting Beside the Range",
+            "itemText": "A bow leaning carelessly near the archery range.  \nNo arrows in the dummy ahead…  \nbut maybe they did shoot from here?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_BowLaid",
+            "itemName": "Bow on Firing Table",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Bow",
+            "itemDescription": "Bow Prepared for the Next User",
+            "itemText": "A bow placed neatly on the desk near the archery range.  \nJudging by the well-hit target,  \nthe shooter was clearly a marksman.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Sword1",
+            "itemName": "Well-Kept Sword",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sword",
+            "itemDescription": "Well-Stored Sword in Rack",
+            "itemText": "A sword well stored in its rack.  \nThe grip is worn and faded,  \nbut the blade is perfectly maintained.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Sword2",
+            "itemName": "“Well-Kept” Sword",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sword",
+            "itemDescription": "“Well-Stored” (?) Sword",
+            "itemText": "A sword (?) supposedly well stored in its rack.  \nThe grip is worn and faded,  \nbut the blade… wait, it’s just stabbed into the floor.  \nThe blade is in terrible condition.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Shield",
+            "itemName": "Shiny New Shield",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Shield",
+            "itemDescription": "Shield Without a Single Scratch",
+            "itemText": "A shield that's practically brand new.  \nYou wonder if it was ever used.  \nIf someone did use it, they probably didn’t need it anyway.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd1",
+            "itemName": "Paper on the Wall",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sign",
+            "itemDescription": "-",
+            "itemText": "The writing says:  \n'From the start to the end… what rotten luck.'",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd2",
+            "itemName": "Ancient Skull",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "HumanSkull",
+            "itemDescription": "-",
+            "itemText": "A skeleton lying there, aged by time.  \nTo have died here… must’ve had the worst sense of direction.  \n…Not that I should talk.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd3",
+            "itemName": "Explorer's (Self-Proclaimed) Journal",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Memo",
+            "itemDescription": "-",
+            "itemText": "A skeleton lying on the ground as if it saw its fate coming.  \nBeside it, a journal reads:  \n'Left-right-right-left… No… right-left-left-right?  \nForget the exit, where’s the entrance?'",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd4_1",
+            "itemName": "Old Shovel",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Shovel",
+            "itemDescription": "-",
+            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn’t even bring their tools back—  \nwhatever they found must’ve been worth it.  \n…Or maybe they couldn’t come back for them?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd4_2",
+            "itemName": "Old Shovel",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Shovel",
+            "itemDescription": "-",
+            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn’t even bring their tools back—  \nwhatever they found must’ve been worth it.  \n…Or maybe they couldn’t come back for them?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd4_3",
+            "itemName": "Old Shovel",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Shovel",
+            "itemDescription": "-",
+            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn’t even bring their tools back—  \nwhatever they found must’ve been worth it.  \n…Or maybe they couldn’t come back for them?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd5",
+            "itemName": "Crushed Skeleton",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "HumanSkull",
+            "itemDescription": "-",
+            "itemText": "You see someone who seems to have died in an instant.  \nA dead end is frustrating,  \nbut maybe someone else had it worse.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd5_Rock",
+            "itemName": "Rock That Crushed a Skull",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rock",
+            "itemDescription": "-",
+            "itemText": "A stone that sent someone to the afterlife in an instant.  \nThe very one responsible  \nfor making someone more unfortunate than me.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd6_1",
+            "itemName": "Empty Bottle",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rum",
+            "itemDescription": "-",
+            "itemText": "There are traces indicating that a modest drinking party took place here in the past.  \nWhat were they thinking, holding such a party in this complex maze?  \nConfidence? Or a last supper?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd6_2",
+            "itemName": "Empty Bottle",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rum",
+            "itemDescription": "-",
+            "itemText": "There are traces indicating that a modest drinking party took place here in the past.  \nWhat were they thinking, holding such a party in this complex maze?  \nConfidence? Or a last supper?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd6_3",
+            "itemName": "Empty Bottle",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rum",
+            "itemDescription": "-",
+            "itemText": "There are traces indicating that a modest drinking party took place here in the past.  \nWhat were they thinking, holding such a party in this complex maze?  \nConfidence? Or a last supper?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd6_4",
+            "itemName": "Empty Bottle",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rum",
+            "itemDescription": "-",
+            "itemText": "There are traces indicating that a modest drinking party took place here in the past.  \nWhat were they thinking, holding such a party in this complex maze?  \nConfidence? Or a last supper?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_DeadEnd6_5",
+            "itemName": "Empty Bottle",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rum",
+            "itemDescription": "-",
+            "itemText": "There are traces indicating that a modest drinking party took place here in the past.  \nWhat were they thinking, holding such a party in this complex maze?  \nConfidence? Or a last supper?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_Shortcut",
+            "itemName": "Signboard on the Wall",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sign",
+            "itemDescription": "-",
+            "itemText": "In ancient xx language, the writing says:  \n“There is a shortcut ahead.”",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_Treasure",
+            "itemName": "<color=\"red\">Tear of the Sun<\/color>",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Treasure",
+            "itemDescription": "-",
+            "itemText": "A radiant jewel seen in ancient records.  \nThe only means to break the curse of time,  \nand the treasure my grandfather searched for all his life.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "MiniPyramid",
+            "itemName": "Edge of the Pyramid",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Pyrimid",
+            "itemDescription": "Small-Sized Pyramid",
+            "itemText": "Compared to other pyramids, this one is small.  \nBut it's impossible to know how large the buried portion beneath it is.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_WaterTower",
+            "itemName": "Water Tank",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "WaterTower",
+            "itemDescription": "Dried and Corroded Water Tank",
+            "itemText": "A tank with holes and corrosion,  \nno longer able to fulfill its original purpose.  \nAs expected, not a drop of water remains.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_ LogHeap",
+            "itemName": "Pile of Firewood",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "LogHeap",
+            "itemDescription": "Messily Piled Firewood",
+            "itemText": "Seems like someone once stacked these for use,  \nbut now they’re corroded and buried in sand,  \nmaking them difficult to utilize.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_WineGlass",
+            "itemName": "Wine Glass",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "WineGlass",
+            "itemDescription": "Wine Glass Full of Sand",
+            "itemText": "Inside, instead of sweet wine,  \nit's filled with sand.  \nThe contents suggest it’s been abandoned for a long time.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Defaultbook1",
+            "itemName": "Book",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Book",
+            "itemDescription": "Worn Book",
+            "itemText": "A book that is already worn out.  \nThere’s something written on the cover,  \nbut it’s so faded that the text is illegible.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Defaultbook2",
+            "itemName": "Book",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Book",
+            "itemDescription": "Worn Book",
+            "itemText": "A book that is already worn out.  \nOn the cover, it says “How to Create a Happy Home.”",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Defaultbook3",
+            "itemName": "Book",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Book",
+            "itemDescription": "Worn Book",
+            "itemText": "A book that is already worn out.  \nOn the cover, it says “100% Mom’s Homemade Taste Recreated.”",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Well",
+            "itemName": "Well",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Well",
+            "itemDescription": "Dried-Up Worn Well",
+            "itemText": "A well once used by villagers.  \nIt seems human touch has long since ceased.  \nNaturally, the bottom is now filled with sand.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Box",
+            "itemName": "Wooden Box",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Box",
+            "itemDescription": "Old Wooden Box",
+            "itemText": "It was made to store something.  \nInside are a few old bowls and clothes  \nleft behind by those who once lived here.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_BarShelf",
+            "itemName": "Wooden Shelf",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "BarShelf",
+            "itemDescription": "Shaky Wooden Shelf",
+            "itemText": "There are wine bottles strewn messily on top.  \nIt likely served as a bar at one point.  \nBut now, the alcohol and drunkenness have long dried up.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Jug",
+            "itemName": "Broken Pot",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "BrokenJug",
+            "itemDescription": "Smashed Earthenware",
+            "itemText": "It was clearly made to hold something,  \nbut now it’s completely shattered  \nand can’t hold anything anymore.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Torch",
+            "itemName": "Extinguished Brazier",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Torch",
+            "itemDescription": "Extinguished Brazier",
+            "itemText": "A brazier that once lit up the village night—  \nnow only ashes remain inside.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_TrivialBook",
+            "itemName": "Diary",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Memo",
+            "itemDescription": "Diary of a Young Boy",
+            "itemText": "The following signs of agony are scribbled:  \n“Jeomsun, do I love you? Argh! Not this either!  \nHow am I supposed to confess!?”  \nThe next page is torn out…",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_BrokenChair",
+            "itemName": "Wooden Chair",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "BrokenChair",
+            "itemDescription": "Broken Wooden Chair",
+            "itemText": "It’s broken so badly that it’s hard to tell what happened.  \nMaybe a couple’s quarrel?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_GardenPointer",
+            "itemName": "Signboard",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Notice",
+            "itemDescription": "Garden Signpost",
+            "itemText": "A sign reads: “Noah Couple’s Garden - Do Not Enter.”  \nBehind the sign, you can see a garden overgrown with weeds.  \nIt seems to have been left unmanaged for a while.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_AshTray",
+            "itemName": "Ashtray",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "AshTray",
+            "itemDescription": "Abandoned Ashtray",
+            "itemText": "A metal ashtray filled with cigarette ash.  \nIt's been so long that the scent of cigarettes is gone.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Axe",
+            "itemName": "Axe",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Axe",
+            "itemDescription": "Chipped Axe",
+            "itemText": "Old and corroded, the teeth have all fallen out.  \nIt wouldn’t even kill a rabbit now.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Pot",
+            "itemName": "Hanging Pot",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Pot",
+            "itemDescription": "Pot Hanging Over a Campfire",
+            "itemText": "The campfire is out,  \nand the bottom of the pot is completely burned.  \nSeems like it’s no longer usable for cooking.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Village_Fermentation",
+            "itemName": "Fermented Brew",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sack",
+            "itemDescription": "Rotten Fermented Brew",
+            "itemText": "A very old fermented drink made from millet.  \nCovered in mold from years of neglect,  \nit’s no longer drinkable.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_WayPointer",
+            "itemName": "Signboard",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Waypoint",
+            "itemDescription": "-",
+            "itemText": "This is Stonehenge: Sanctuary of the Dead  ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_Interactable_01",
+            "itemName": "Giant Standing Stone",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Stonehenge",
+            "itemDescription": "Standing Stone of Ancient Ruins",
+            "itemText": "A massive stone is erected vertically,  \nand a horizontal stone is placed on top of it in an unusual structure.  \nNo one knows who built it or for what purpose.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_Interactable_02",
+            "itemName": "Altar Stone",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "SacrificialAltar",
+            "itemDescription": "Long, Flat Stone",
+            "itemText": "The rock facing the statue of `Sun God Ra`  \nseems to have been used to offer sacrifices.  \nIt is lavishly gilded in gold.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_Interactable_03",
+            "itemName": "Twin Standing Stones",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "TwinStonehenge",
+            "itemDescription": "Twin Standing Stones of Ancient Ruins",
+            "itemText": "A rare formation with two standing stones connected together.  \nNo one knows who made this or for what reason.  \nSome believe it was used as a tool to calculate the solar calendar.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_Interactable_04",
+            "itemName": "Sacrificial Prep Stone",
+            "itemType": "None ",
+            "popUpType": "Normal",
+            "sourceImage": "PreSacrificialStone",
+            "itemDescription": "Flat Stone",
+            "itemText": "A rock seemingly used to prepare the sacrifice before offering it.  \nLooking closely, you can see small bone fragments scattered around.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_GodOfSun",
+            "itemName": "Giant Stone Tablet",
+            "itemType": "None ",
+            "popUpType": "Normal",
+            "sourceImage": "HieroglyphsStone",
+            "itemDescription": "Giant Stone Tablet with Hieroglyphs",
+            "itemText": "Though eroded and hard to read,  \nit appears to be a prayer wishing the dead  \neternal rest beside 'Sun God Ra'.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Stonehenge_RaStatue",
+            "itemName": "Statue of the Sun God",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "RaStatue",
+            "itemDescription": "Statue Shaped Like the Sun God",
+            "itemText": "The golden decorations and majestic lion form  \nseem to convey the power of the Sun God.  \nThough ancient, it remains almost uncorroded.  \nFour obelisks surround the statue like guardians.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_0",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">0<\/color>",
+            "itemText": "The bright star guiding all turns out to be the entrance to the darkness. ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_1",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">1<\/color>",
+            "itemText": "At the beginning of time, Sun God Ra created all things, foresaw their beginning and end, and felt a deep sorrow. Thus, a tear fell from his eye. ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_2",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">2<\/color>",
+            "itemText": "That tear landed on earth and turned into a brilliant jewel,  ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_3",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">3<\/color>",
+            "itemText": "which humans came to worship as the <color=\"\"yellow\"\">'Tear of the Sun'<\/color>.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_4",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">4<\/color>",
+            "itemText": "Whoever possesses this sacred <color=\"yellow\">'Tear of the Sun'<\/color>  \nshall wield divine power to control the swirling <color=\"yellow\">flow of time<\/color>",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_5",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">5<\/color>",
+            "itemText": "Thus, the world was stained in blood by those greedy to reclaim time with the <color=\"yellow\">'Tear of the Sun'<\/color>.  \nWitnessing this tragedy, Sun God Ra built a <color=\"yellow\">giant pyramid<\/color> deep underground  \nand sealed the <color=\"yellow\">'Tear of the Sun'<\/color> within its heart so it could never be released again.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_6",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">6<\/color>",
+            "itemText": "Even so, those who desire it will remain trapped in a prison of time,  \nwandering endlessly until they find the <color=\"yellow\">'Tear of the Sun'<\/color>.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Hieroglyph_7",
+            "itemName": "Obelisk",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Hieroglyph",
+            "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">7<\/color>",
+            "itemText": "Foolish mortals who covet divine power, you will be trapped in this desolate desert,  \nendlessly repeating the cycle of agony and thirst in eternal torment.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "SkeletonCampsite_Wagon1",
+            "itemName": "Wagon",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Wagon",
+            "itemDescription": "Wagon Full of Small Stones",
+            "itemText": "A cart carrying many stones in this place filled with nothing but sand—  \nwhere did the stones come from?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "SkeletonCampsite_Wagon2",
+            "itemName": "Wagon",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Wagon",
+            "itemDescription": "Wagon Full of Bricks",
+            "itemText": "A cart moving brick-like stones—  \nthey’re larger and more numerous than those in the cart beside it.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "SkeletonCampsite_Wagon3",
+            "itemName": "Wagon",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Wagon",
+            "itemDescription": "Empty Wagon",
+            "itemText": "A cart that is completely empty unlike the others—  \nnothing special to note besides that.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "SkeletonCampsite_Coin",
+            "itemName": "Coins",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Coin",
+            "itemDescription": "Pile of Coins",
+            "itemText": "A hefty pile of coins—  \nI shouldn’t steal them, and they hold no value to me anyway.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "SkeletonCampsite_Rock",
+            "itemName": "Large Rock",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Rock",
+            "itemDescription": "Large Rock",
+            "itemText": "Stones piled near a temporary camp—  \nit doesn’t seem like a large amount, so why are so many carts needed?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "SkeletonCampsite_Sign",
+            "itemName": "Warning Sign",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Sign",
+            "itemDescription": "Warning Sign",
+            "itemText": "In red ink, heavily emphasized, the note reads:  \n\"<color=\"\"red\"\">Stop slacking and go to the<\/color> <color=\"\"yellow\"\">Stonehenge<\/color><color=\"\"red\"\"> on the other side to gather stones!<\/color>\"",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Memo",
+            "itemName": "Crumpled Note",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Memo",
+            "itemDescription": "Faded and Old Note",
+            "itemText": "A crumpled note, origin unknown.  \nIt reads:  \n\"<color=\"\"red\"\">Light the passage already. Can’t you see your way back to camp?<\/color>\"",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Maze_Treasure",
+            "itemName": "Tear of the Sun",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Gemstone",
+            "itemDescription": "Sealed Gemstone Radiating Bright Light",
+            "itemText": "A brilliant jewel seen in ancient records.  \nIt is essential to break the curse of time.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Village&Ship_Grandfather'sDiary",
+            "itemName": "Archaeologist’s Journal",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "An Archaeologist’s Scribbled Journal #1",
+            "itemText": "I’ve come this far—I can’t give up on the <color=\"yellow\">‘Tear of the Sun’<\/color>.  \nFor my daughter, unjustly slain, and my grandson who must live without a mother,  \nI must turn back time.  ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "ShelterNearOasis_Grandfather'sDiary",
+            "itemName": "Archaeologist’s Journal",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "An Archaeologist’s Scribbled Journal #2",
+            "itemText": "While exploring the outskirts of an abandoned village, I encountered a caravan.  \nWith their help, I tried to escape the desert,  \nbut the searing heat blocked my way.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Pyramid_Grandfather'sDiary",
+            "itemName": "Archaeologist’s Journal",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "An Archaeologist’s Scribbled Journal #3",
+            "itemText": "Could the curse be real after all?  \nWhat is this small pyramid?  \nI dug slightly next to it, and it seems deeply connected to underground tunnels.",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Oasis_Grandfather'sDiary",
+            "itemName": "Archaeologist’s Journal",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "An Archaeologist’s Scribbled Journal #4",
+            "itemText": "I thought there would be water and ran toward it excitedly,  \nbut the oasis turned out to be a mirage.  \nThere’s a giant Stonehenge ruin on the opposite side—could it hold a clue?",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Obelisk_Grandfather'sDiary",
+            "itemName": "Archaeologist’s Journal",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "An Archaeologist’s Scribbled Journal #5",
+            "itemText": "The arrangement of these obelisks...  \nit perfectly replicates the shape of the Big Dipper.  \nWhat could it mean?  \nIs it a signal of hope or just another path to despair?  ",
+            "isVolatile": false
+        },
+        {
+            "objectName": "ShelterNearPyramid_Grandfather'sDiary",
+            "itemName": "Archaeologist’s Journal",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemDescription": "An Archaeologist’s Scribbled Journal #6",
+            "itemText": "I’ve collapsed from thirst in this wretched desert,  \ngotten up again to search for info about the jewel,  \nand died again somewhere else in this desert.  \nIt’s already been 375 days of this cursed cycle…  \nI don’t have the strength to endure this place any longer...",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Grandfather'sPhoto",
+            "itemName": "Photo of the Archaeologist",
+            "itemType": "Clue",
+            "popUpType": "Book",
+            "sourceImage": "PhotoOfGrandfather",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Pointer",
+            "itemName": "Waypoint",
+            "itemType": "None",
+            "popUpType": "Normal",
+            "sourceImage": "Waypoint",
+            "itemText": "Forward - <color=\"yellow\">village</color>\n\nRight - <color=\"yellow\">Oasis",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Beaker",
+            "itemName": "비커",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Beaker",
+            "itemDescription": "실험실에서나 사용될 법한 비커이다.\n수집품 #1",
+            "itemText": "안에는 여러 색의 액체가 말라 붙어있다.\n사용된 액체가 무엇인지는 알 수 없으나 절대 실험실에서 사용될법한 액체가 아님은 분명하다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Strawberry",
+            "itemName": "딸기",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Strawberry",
+            "itemDescription": "사막과는 상당히 어울리지 않는 과일.\n수집품 #8",
+            "itemText": "마을에서 고가에 거래되었겠지만 어째서인지 바닥에 묻혀있다.<br>우연히 떨어졌을지 주인과 같이 묻혔을지<br>신 만이 알 길이다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Chicken",
+            "itemName": "병아리",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Chicken",
+            "itemDescription": "어디서나 쉽게 볼 수 있는 병아리 인형\n수집품 #7",
+            "itemText": "어딘가에서 뜯겨져 나온 것 같다.\n꼭 모든 이가 구원자가 될 수는 없다.\n구원자는 구원해야 할 이가 없다면 존재할 수 없다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "TeleScope",
+            "itemName": "망원경",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Telescope",
+            "itemDescription": "중세시대에 쓰였을 법한 단안식 망원경\n수집품 #5",
+            "itemText": "상자에 보관되어 보존이 잘 되어있다.\n주머니에 들어갈만한 작은 크기로,\n어쩐지 충분히 멀리 있는 숫자를 볼 수 있을 것 같다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Ship",
+            "itemName": "해적선 장난감",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Ship",
+            "itemDescription": "먼 과거 바다를 호령했던 해적왕의 배를 본딴 장난감\n수집품 #2",
+            "itemText": "해군들과의 수많은 전투를 거치며 곳곳에 영광의 상처를 얻은 모습이다.\n그의 모습이 사라진 후, 수많은 자들이 바닷속 어딘가 그의 부를 취하기 위해 육지를 떠났다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Silverbutton",
+            "itemName": "실버 버튼",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Silverbutton",
+            "itemDescription": "알 수 없는 모양을 한 판자, 아래에 10만이라는 수가 적혀있다.\n수집품 #3",
+            "itemText": "은처럼 반짝이지만 은처럼 묵직하지는 않다.\n은처럼 묵직하지는 않지만 은 만큼 기분은 좋다.\n이유는 알 수 없다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Rocket",
+            "itemName": "로켓",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Rocket",
+            "itemDescription": "인류가 화성에 도착하는데 사용됐던 로켓을 본뜬 장난감\n수집품 #4",
+            "itemText": "인류의 미래와 희망을 나타내는 상징적인 물건이다.\n무슨 뜻인지는 모르겠으나 아래 ‘에일리온 머스크’라고 작게 쓰여있다.",
+            "isVolatile": true
+        },
+        {
+            "objectName": "Mutant",
+            "itemName": "뮤턴트 인형",
+            "itemType": "Collection",
+            "popUpType": "Normal",
+            "sourceImage": "Mutant",
+            "itemDescription": "우주복을 입은 우주인의 모양을 한 듯한 인형\n수집품 #6",
+            "itemText": "풍파에 의해 많이 낡았다.\n누군가에게 팔리기 위해 만들어졌지만\n어떠한 이유로 폐기된 모양이다.",
+            "isVolatile": true
+        }
+    ]
+}

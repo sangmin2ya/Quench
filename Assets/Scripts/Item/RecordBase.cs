@@ -19,9 +19,9 @@ public class RecordBase : MonoBehaviour, IInteractable
 
     [Space]
 
-    [Header("Area Name")]
-    [TextArea(5, 5)]
-    [SerializeField] private string _areaName;
+    [Header("Area ID")]
+    [TextArea(1, 5)]
+    [SerializeField] private string _areaID;
 
     [Space]
 
@@ -53,19 +53,22 @@ public class RecordBase : MonoBehaviour, IInteractable
     public virtual void OnHover()
     {
         transform.Find("Check").gameObject.SetActive(true); 
+
+        ScreenManager.Instance.ShowInteractable();
     }
 
     public virtual void OnHoverExit()
     {
-
         transform.Find("Check").gameObject.SetActive(false);
+
+        ScreenManager.Instance.HideInteractable();
     }
 
     public virtual void OnInteract()
     {
         ScreenManager.Instance.
             EnableListedPopUp(
-            _areaName,
+            JsonReader.Instance.ingameTextDictionary[_areaID],
             _areaDescription,
             _iconImage,
             _areaItems

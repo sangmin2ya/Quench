@@ -1,0 +1,84 @@
+{
+    "ingameTexts": [
+        {
+            "textID": "revive_01",
+            "ingameText": "...?"
+        },
+        {
+            "textID": "revive_02",
+            "ingameText": "For some reason, it seems to come back to life again.  "
+        },
+        {
+            "textID": "run_01",
+            "ingameText": "The more I run, the more I feel the thirst intensify.\nBetter to run only when necessary."
+        },
+        {
+            "textID": "thirst_01",
+            "ingameText": "My throat is burning"
+        },
+        {
+            "textID": "thirst_02",
+            "ingameText": "My throat is very dry"
+        },
+        {
+            "textID": "thirst_03",
+            "ingameText": "I'm starting to feel thirsty"
+        },
+        {
+            "textID": "thirst_04",
+            "ingameText": "The farther I go from the desert, the more I feel the thirst intensify"
+        },
+        {
+            "textID": "end_01",
+            "ingameText": "Although You couldn't uncover the secrets of the desert,\nyou escaped the endless cycle of death with the help of Caravan.\nYou'll never know what treasure your grandfather truly sought... "
+        },
+        {
+            "textID": "end_02",
+            "ingameText": "You uncovered all the secrets of the desert,\nrecovered the treasure your grandfather longed for,\nand escaped the desert safely with the help of the caravan. "
+        },
+        {
+            "textID": "result_01",
+            "ingameText": "Collection  "
+        },
+        {
+            "textID": "result_02",
+            "ingameText": "Number of Revives"
+        },
+        {
+            "textID": "area_01",
+            "ingameText": "Cave Sheltered from the Storm"
+        },
+        {
+            "textID": "area_02",
+            "ingameText": "Empty Village"
+        },
+        {
+            "textID": "area_03",
+            "ingameText": "Shipwreck in the Desert"
+        },
+        {
+            "textID": "area_04",
+            "ingameText": "Dried-up Oasis"
+        },
+        {
+            "textID": "area_05",
+            "ingameText": "Golden Lion Statue"
+        },
+        {
+            "textID": "area_06",
+            "ingameText": "Stonehenge"
+        },
+        {
+            "textID": "area_07",
+            "ingameText": "Giant Skull Camp"
+        },
+        {
+            "textID": "area_08",
+            "ingameText": "Edge of the Pyramid"
+        },
+        {
+            "textID": "area_09",
+            "ingameText": "Twin Red Rocks"
+        }
+    ]
+}

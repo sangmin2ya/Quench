@@ -119,6 +119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _itemType: 0
+  _collectionType: 8
   _popUpType: 0
   _sourceImage: {fileID: 21300000, guid: 579ed0e0376b4a840acf9ad2498c4639, type: 3}
   _itemName: "\uD574\uC801\uC120 \uC7A5\uB09C\uAC10"
@@ -126,11 +127,12 @@ MonoBehaviour:
     \uD574\uC801\uC655\uC758 \uBC30\uB97C \uBCF8\uB534 \uC7A5\uB09C\uAC10\r"
   _itemText: "\uD574\uAD70\uB4E4\uACFC\uC758 \uC218\uB9CE\uC740 \uC804\uD22C\uB97C
     \uAC70\uCE58\uBA70 \uACF3\uACF3\uC5D0 \uC601\uAD11\uC758 \uC0C1\uCC98\uB97C \uC5BB\uC740
-    \uBAA8\uC2B5\uC774\uB2E4. \r\n\uADF8\uC758 \uBAA8\uC2B5\uC774 \uC0AC\uB77C\uC9C4
+    \uBAA8\uC2B5\uC774\uB2E4.\\n\uADF8\uC758 \uBAA8\uC2B5\uC774 \uC0AC\uB77C\uC9C4
     \uD6C4, \uC218\uB9CE\uC740 \uC790\uB4E4\uC774 \uBC14\uB2F7\uC18D \uC5B4\uB518\uAC00
     \uADF8\uC758 \uBD80\uB97C \uCDE8\uD558\uAE30 \uC704\uD574 \uC721\uC9C0\uB97C
     \uB5A0\uB0AC\uB2E4."
   _isVolatile: 1
+  _isKeyItem: 0
 --- !u!64 &8712440899095967734
 MeshCollider:
   m_ObjectHideFlags: 0

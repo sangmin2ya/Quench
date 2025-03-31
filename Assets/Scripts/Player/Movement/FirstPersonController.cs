@@ -56,7 +56,7 @@ namespace StarterAssets
 		public float moveBackThreshold = 10f;
 
 		// cinemachine
-		private float _cinemachineTargetPitch;
+		private float _cinemachineTargetPitch = -10f;
 
 		// player
 		private float _speed;
@@ -178,8 +178,8 @@ namespace StarterAssets
 				//Don't multiply mouse input by Time.deltaTime
 				float deltaTimeMultiplier = IsCurrentDeviceMouse ? 1.0f : Time.deltaTime;
 
-				_cinemachineTargetPitch += _input.look.y * DataManager.Instance.RotationSpeed * deltaTimeMultiplier;
-				_rotationVelocity = _input.look.x * DataManager.Instance.RotationSpeed * deltaTimeMultiplier;
+				_cinemachineTargetPitch += _input.look.y * DataManager.Instance.RotationSpeed * 2 * deltaTimeMultiplier;
+				_rotationVelocity = _input.look.x * DataManager.Instance.RotationSpeed* 2 * deltaTimeMultiplier;
 
 				// clamp our pitch rotation
 				_cinemachineTargetPitch = ClampAngle(_cinemachineTargetPitch, BottomClamp, TopClamp);

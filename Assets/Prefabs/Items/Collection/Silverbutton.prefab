@@ -1353,16 +1353,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _itemType: 0
+  _collectionType: 8
   _popUpType: 0
   _sourceImage: {fileID: 21300000, guid: d4ea6e7e7b9568746a26b5d54c2babd5, type: 3}
   _itemName: "\uC2E4\uBC84 \uBC84\uD2BC"
   _itemDescription: "\uC54C \uC218 \uC5C6\uB294 \uBAA8\uC591\uC744 \uD55C \uD310\uC790,
     \uC544\uB798\uC5D0 10\uB9CC\uC774\uB77C\uB294 \uC218\uAC00 \uC801\uD600\uC788\uB2E4."
   _itemText: "\uC740\uCC98\uB7FC \uBC18\uC9DD\uC774\uC9C0\uB9CC \uC740\uCC98\uB7FC
-    \uBB35\uC9C1\uD558\uC9C0\uB294 \uC54A\uB2E4.\r\n\uC740\uCC98\uB7FC \uBB35\uC9C1\uD558\uC9C0\uB294
-    \uC54A\uC9C0\uB9CC \uC740 \uB9CC\uD07C \uAE30\uBD84\uC740 \uC88B\uB2E4.\r\n\uC774\uC720\uB294
+    \uBB35\uC9C1\uD558\uC9C0\uB294 \uC54A\uB2E4.\\n\uC740\uCC98\uB7FC \uBB35\uC9C1\uD558\uC9C0\uB294
+    \uC54A\uC9C0\uB9CC \uC740 \uB9CC\uD07C \uAE30\uBD84\uC740 \uC88B\uB2E4.\\n\uC774\uC720\uB294
     \uC54C \uC218 \uC5C6\uB2E4."
   _isVolatile: 1
+  _isKeyItem: 0
 --- !u!1 &8606661315395821111
 GameObject:
   m_ObjectHideFlags: 0
