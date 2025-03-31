@@ -47,7 +47,7 @@
             "popUpType": "Book",
             "sourceImage": "Granph'sRecord",
             "itemDescription": "-",
-            "itemText": "A journal from my grandfather, who disappeared in this desert ten years ago.  \nHe was an archaeologist, and this journal contains information about the treasure he risked his life to find.  \nI’ve set foot in this desert hoping to fulfill his wish—and if he’s alive, to meet him once more.",
+            "itemText": "A journal from my grandfather, who disappeared in this desert ten years ago.  \nHe was an archaeologist, and this journal contains information about the treasure he risked his life to find.  \nI've set foot in this desert hoping to fulfill his wish—and if he's alive, to meet him once more.",
             "isVolatile": false
         },
         {
@@ -57,7 +57,7 @@
             "popUpType": "Normal",
             "sourceImage": "bottle",
             "itemDescription": "Empty Water Bottle",
-            "itemText": "A canteen with not a single drop of water left.  \nJust looking at it makes me feel more thirsty.  \nIt’s been so long since I last drank.",
+            "itemText": "A canteen with not a single drop of water left.  \nJust looking at it makes me feel more thirsty.  \nIt's been so long since I last drank.",
             "isVolatile": false
         },
         {
@@ -77,7 +77,7 @@
             "popUpType": "Normal",
             "sourceImage": "backpack",
             "itemDescription": "Backpack with Something Inside",
-            "itemText": "A backpack placed up here for reasons unknown.  \nDoesn’t seem to contain anything useful.",
+            "itemText": "A backpack placed up here for reasons unknown.  \nDoesn't seem to contain anything useful.",
             "isVolatile": false
         },
         {
@@ -157,7 +157,7 @@
             "popUpType": "Normal",
             "sourceImage": "Coin",
             "itemDescription": "A Pouch Full of Coins",
-            "itemText": "A money pouch someone forgot to take.  \nIt holds quite a bit,  \nbut doesn’t seem particularly useful right now.",
+            "itemText": "A money pouch someone forgot to take.  \nIt holds quite a bit,  \nbut doesn't seem particularly useful right now.",
             "isVolatile": false
         },
         {
@@ -166,7 +166,7 @@
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Book",
-            "itemDescription": "Sailor’s Log",
+            "itemDescription": "Sailor's Log",
             "itemText": "I have no idea how to escape this sea.  \nHow long have we been going in circles here...?  \n<color=\"\"yellow\"\">Something<\/color> is definitely trying to trap us here.",
             "isVolatile": false
         },
@@ -177,7 +177,7 @@
             "popUpType": "Normal",
             "sourceImage": "SignBoard",
             "itemDescription": "Worn and Torn Signboard",
-            "itemText": "A sign that fell when the entrance collapsed.  \n“<color=\"\"red\"\">Tomb Robbers’ Camp<\/color>“",
+            "itemText": "A sign that fell when the entrance collapsed.  \n“<color=\"\"red\"\">Tomb Robbers' Camp<\/color>“",
             "isVolatile": false
         },
         {
@@ -277,7 +277,7 @@
             "popUpType": "Normal",
             "sourceImage": "LockedBarrel",
             "itemDescription": "Wooden Barrel Filled to the Top",
-            "itemText": "A locked wooden barrel filled with unknown items.  \nIt’s so tightly sealed, someone clearly cherished it.  \nOddly enough, it doesn’t seem to use a standard lock.",
+            "itemText": "A locked wooden barrel filled with unknown items.  \nIt's so tightly sealed, someone clearly cherished it.  \nOddly enough, it doesn't seem to use a standard lock.",
             "isVolatile": false
         },
         {
@@ -307,7 +307,7 @@
             "popUpType": "Normal",
             "sourceImage": "Shelve",
             "itemDescription": "Empty Bookshelf, Light on Dust",
-            "itemText": "An empty wooden bookshelf.  \nIt’s not entirely dusty inside,  \nso it was likely once full of books.  \nWhere did they all go?",
+            "itemText": "An empty wooden bookshelf.  \nIt's not entirely dusty inside,  \nso it was likely once full of books.  \nWhere did they all go?",
             "isVolatile": false
         },
         {
@@ -317,7 +317,7 @@
             "popUpType": "Normal",
             "sourceImage": "MysteriousBox",
             "itemDescription": "Suspicious Box Anyone Would Avoid",
-            "itemText": "A suspicious wooden box covered with cloth, all by itself.  \nClearly something someone didn’t want touched by outsiders.",
+            "itemText": "A suspicious wooden box covered with cloth, all by itself.  \nClearly something someone didn't want touched by outsiders.",
             "isVolatile": false
         },
         {
@@ -327,7 +327,7 @@
             "popUpType": "Normal",
             "sourceImage": "WoodPlank",
             "itemDescription": "Topmost Plank",
-            "itemText": "A plank blocking the way into a house.  \nThe top nail didn’t go in straight.  \nSome nails are oddly driven in diagonally from below.",
+            "itemText": "A plank blocking the way into a house.  \nThe top nail didn't go in straight.  \nSome nails are oddly driven in diagonally from below.",
             "isVolatile": false
         },
         {
@@ -357,7 +357,7 @@
             "popUpType": "Normal",
             "sourceImage": "AxeOnTheWall",
             "itemDescription": "Axe Embedded in the Wall",
-            "itemText": "A large axe embedded in the wall.  \nThe doorway’s blocked too… Were they planning to use the house as firewood?",
+            "itemText": "A large axe embedded in the wall.  \nThe doorway's blocked too… Were they planning to use the house as firewood?",
             "isVolatile": false
         },
         {
@@ -367,7 +367,7 @@
             "popUpType": "Normal",
             "sourceImage": "Pot",
             "itemDescription": "Blazing Pot",
-            "itemText": "A poor cauldron, already boiling dry and heated red.  \nAt this rate it’ll burn to a crisp,  \nbut it’s too hot to touch.",
+            "itemText": "A poor cauldron, already boiling dry and heated red.  \nAt this rate it'll burn to a crisp,  \nbut it's too hot to touch.",
             "isVolatile": false
         },
         {
@@ -407,7 +407,7 @@
             "popUpType": "Normal",
             "sourceImage": "Bow",
             "itemDescription": "Well-Stored Bow in Rack",
-            "itemText": "A bow neatly stored in a rack.  \nNo way to tell whether it was used and put back,  \nor if it’s never been taken out at all.",
+            "itemText": "A bow neatly stored in a rack.  \nNo way to tell whether it was used and put back,  \nor if it's never been taken out at all.",
             "isVolatile": false
         },
         {
@@ -447,7 +447,7 @@
             "popUpType": "Normal",
             "sourceImage": "Sword",
             "itemDescription": "“Well-Stored” (?) Sword",
-            "itemText": "A sword (?) supposedly well stored in its rack.  \nThe grip is worn and faded,  \nbut the blade… wait, it’s just stabbed into the floor.  \nThe blade is in terrible condition.",
+            "itemText": "A sword (?) supposedly well stored in its rack.  \nThe grip is worn and faded,  \nbut the blade… wait, it's just stabbed into the floor.  \nThe blade is in terrible condition.",
             "isVolatile": false
         },
         {
@@ -457,7 +457,7 @@
             "popUpType": "Normal",
             "sourceImage": "Shield",
             "itemDescription": "Shield Without a Single Scratch",
-            "itemText": "A shield that's practically brand new.  \nYou wonder if it was ever used.  \nIf someone did use it, they probably didn’t need it anyway.",
+            "itemText": "A shield that's practically brand new.  \nYou wonder if it was ever used.  \nIf someone did use it, they probably didn't need it anyway.",
             "isVolatile": false
         },
         {
@@ -477,7 +477,7 @@
             "popUpType": "Normal",
             "sourceImage": "HumanSkull",
             "itemDescription": "-",
-            "itemText": "A skeleton lying there, aged by time.  \nTo have died here… must’ve had the worst sense of direction.  \n…Not that I should talk.",
+            "itemText": "A skeleton lying there, aged by time.  \nTo have died here… must've had the worst sense of direction.  \n…Not that I should talk.",
             "isVolatile": false
         },
         {
@@ -487,7 +487,7 @@
             "popUpType": "Normal",
             "sourceImage": "Memo",
             "itemDescription": "-",
-            "itemText": "A skeleton lying on the ground as if it saw its fate coming.  \nBeside it, a journal reads:  \n'Left-right-right-left… No… right-left-left-right?  \nForget the exit, where’s the entrance?'",
+            "itemText": "A skeleton lying on the ground as if it saw its fate coming.  \nBeside it, a journal reads:  \n'Left-right-right-left… No… right-left-left-right?  \nForget the exit, where's the entrance?'",
             "isVolatile": false
         },
         {
@@ -497,7 +497,7 @@
             "popUpType": "Normal",
             "sourceImage": "Shovel",
             "itemDescription": "-",
-            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn’t even bring their tools back—  \nwhatever they found must’ve been worth it.  \n…Or maybe they couldn’t come back for them?",
+            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn't even bring their tools back—  \nwhatever they found must've been worth it.  \n…Or maybe they couldn't come back for them?",
             "isVolatile": false
         },
         {
@@ -507,7 +507,7 @@
             "popUpType": "Normal",
             "sourceImage": "Shovel",
             "itemDescription": "-",
-            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn’t even bring their tools back—  \nwhatever they found must’ve been worth it.  \n…Or maybe they couldn’t come back for them?",
+            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn't even bring their tools back—  \nwhatever they found must've been worth it.  \n…Or maybe they couldn't come back for them?",
             "isVolatile": false
         },
         {
@@ -517,7 +517,7 @@
             "popUpType": "Normal",
             "sourceImage": "Shovel",
             "itemDescription": "-",
-            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn’t even bring their tools back—  \nwhatever they found must’ve been worth it.  \n…Or maybe they couldn’t come back for them?",
+            "itemText": "Items likely used by tomb raiders are scattered in a corner.  \nThey didn't even bring their tools back—  \nwhatever they found must've been worth it.  \n…Or maybe they couldn't come back for them?",
             "isVolatile": false
         },
         {
@@ -637,7 +637,7 @@
             "popUpType": "Normal",
             "sourceImage": "LogHeap",
             "itemDescription": "Messily Piled Firewood",
-            "itemText": "Seems like someone once stacked these for use,  \nbut now they’re corroded and buried in sand,  \nmaking them difficult to utilize.",
+            "itemText": "Seems like someone once stacked these for use,  \nbut now they're corroded and buried in sand,  \nmaking them difficult to utilize.",
             "isVolatile": false
         },
         {
@@ -647,7 +647,7 @@
             "popUpType": "Normal",
             "sourceImage": "WineGlass",
             "itemDescription": "Wine Glass Full of Sand",
-            "itemText": "Inside, instead of sweet wine,  \nit's filled with sand.  \nThe contents suggest it’s been abandoned for a long time.",
+            "itemText": "Inside, instead of sweet wine,  \nit's filled with sand.  \nThe contents suggest it's been abandoned for a long time.",
             "isVolatile": false
         },
         {
@@ -657,7 +657,7 @@
             "popUpType": "Normal",
             "sourceImage": "Book",
             "itemDescription": "Worn Book",
-            "itemText": "A book that is already worn out.  \nThere’s something written on the cover,  \nbut it’s so faded that the text is illegible.",
+            "itemText": "A book that is already worn out.  \nThere's something written on the cover,  \nbut it's so faded that the text is illegible.",
             "isVolatile": false
         },
         {
@@ -677,7 +677,7 @@
             "popUpType": "Normal",
             "sourceImage": "Book",
             "itemDescription": "Worn Book",
-            "itemText": "A book that is already worn out.  \nOn the cover, it says “100% Mom’s Homemade Taste Recreated.”",
+            "itemText": "A book that is already worn out.  \nOn the cover, it says “100% Mom's Homemade Taste Recreated.”",
             "isVolatile": false
         },
         {
@@ -717,7 +717,7 @@
             "popUpType": "Normal",
             "sourceImage": "BrokenJug",
             "itemDescription": "Smashed Earthenware",
-            "itemText": "It was clearly made to hold something,  \nbut now it’s completely shattered  \nand can’t hold anything anymore.",
+            "itemText": "It was clearly made to hold something,  \nbut now it's completely shattered  \nand can't hold anything anymore.",
             "isVolatile": false
         },
         {
@@ -747,7 +747,7 @@
             "popUpType": "Normal",
             "sourceImage": "BrokenChair",
             "itemDescription": "Broken Wooden Chair",
-            "itemText": "It’s broken so badly that it’s hard to tell what happened.  \nMaybe a couple’s quarrel?",
+            "itemText": "It's broken so badly that it's hard to tell what happened.  \nMaybe a couple's quarrel?",
             "isVolatile": false
         },
         {
@@ -757,7 +757,7 @@
             "popUpType": "Normal",
             "sourceImage": "Notice",
             "itemDescription": "Garden Signpost",
-            "itemText": "A sign reads: “Noah Couple’s Garden - Do Not Enter.”  \nBehind the sign, you can see a garden overgrown with weeds.  \nIt seems to have been left unmanaged for a while.",
+            "itemText": "A sign reads: “Noah Couple's Garden - Do Not Enter.”  \nBehind the sign, you can see a garden overgrown with weeds.  \nIt seems to have been left unmanaged for a while.",
             "isVolatile": false
         },
         {
@@ -777,7 +777,7 @@
             "popUpType": "Normal",
             "sourceImage": "Axe",
             "itemDescription": "Chipped Axe",
-            "itemText": "Old and corroded, the teeth have all fallen out.  \nIt wouldn’t even kill a rabbit now.",
+            "itemText": "Old and corroded, the teeth have all fallen out.  \nIt wouldn't even kill a rabbit now.",
             "isVolatile": false
         },
         {
@@ -787,7 +787,7 @@
             "popUpType": "Normal",
             "sourceImage": "Pot",
             "itemDescription": "Pot Hanging Over a Campfire",
-            "itemText": "The campfire is out,  \nand the bottom of the pot is completely burned.  \nSeems like it’s no longer usable for cooking.",
+            "itemText": "The campfire is out,  \nand the bottom of the pot is completely burned.  \nSeems like it's no longer usable for cooking.",
             "isVolatile": false
         },
         {
@@ -797,7 +797,7 @@
             "popUpType": "Normal",
             "sourceImage": "Sack",
             "itemDescription": "Rotten Fermented Brew",
-            "itemText": "A very old fermented drink made from millet.  \nCovered in mold from years of neglect,  \nit’s no longer drinkable.",
+            "itemText": "A very old fermented drink made from millet.  \nCovered in mold from years of neglect,  \nit's no longer drinkable.",
             "isVolatile": false
         },
         {
@@ -967,7 +967,7 @@
             "popUpType": "Normal",
             "sourceImage": "Wagon",
             "itemDescription": "Wagon Full of Bricks",
-            "itemText": "A cart moving brick-like stones—  \nthey’re larger and more numerous than those in the cart beside it.",
+            "itemText": "A cart moving brick-like stones—  \nthey're larger and more numerous than those in the cart beside it.",
             "isVolatile": false
         },
         {
@@ -987,7 +987,7 @@
             "popUpType": "Normal",
             "sourceImage": "Coin",
             "itemDescription": "Pile of Coins",
-            "itemText": "A hefty pile of coins—  \nI shouldn’t steal them, and they hold no value to me anyway.",
+            "itemText": "A hefty pile of coins—  \nI shouldn't steal them, and they hold no value to me anyway.",
             "isVolatile": false
         },
         {
@@ -997,7 +997,7 @@
             "popUpType": "Normal",
             "sourceImage": "Rock",
             "itemDescription": "Large Rock",
-            "itemText": "Stones piled near a temporary camp—  \nit doesn’t seem like a large amount, so why are so many carts needed?",
+            "itemText": "Stones piled near a temporary camp—  \nit doesn't seem like a large amount, so why are so many carts needed?",
             "isVolatile": false
         },
         {
@@ -1017,7 +1017,7 @@
             "popUpType": "Normal",
             "sourceImage": "Memo",
             "itemDescription": "Faded and Old Note",
-            "itemText": "A crumpled note, origin unknown.  \nIt reads:  \n\"<color=\"\"red\"\">Light the passage already. Can’t you see your way back to camp?<\/color>\"",
+            "itemText": "A crumpled note, origin unknown.  \nIt reads:  \n\"<color=\"\"red\"\">Light the passage already. Can't you see your way back to camp?<\/color>\"",
             "isVolatile": false
         },
         {
@@ -1032,62 +1032,62 @@
         },
         {
             "objectName": "Village&Ship_Grandfather'sDiary",
-            "itemName": "Archaeologist’s Journal",
+            "itemName": "Archaeologist's Journal",
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Scroll",
-            "itemDescription": "An Archaeologist’s Scribbled Journal #1",
-            "itemText": "I’ve come this far—I can’t give up on the <color=\"yellow\">‘Tear of the Sun’<\/color>.  \nFor my daughter, unjustly slain, and my grandson who must live without a mother,  \nI must turn back time.  ",
+            "itemDescription": "An Archaeologist's Scribbled Journal #1",
+            "itemText": "I've come this far—I can't give up on the <color=\"yellow\">‘Tear of the Sun'<\/color>.  \nFor my daughter, unjustly slain, and my grandson who must live without a mother,  \nI must turn back time.  ",
             "isVolatile": false
         },
         {
             "objectName": "ShelterNearOasis_Grandfather'sDiary",
-            "itemName": "Archaeologist’s Journal",
+            "itemName": "Archaeologist's Journal",
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Scroll",
-            "itemDescription": "An Archaeologist’s Scribbled Journal #2",
+            "itemDescription": "An Archaeologist's Scribbled Journal #2",
             "itemText": "While exploring the outskirts of an abandoned village, I encountered a caravan.  \nWith their help, I tried to escape the desert,  \nbut the searing heat blocked my way.",
             "isVolatile": false
         },
         {
             "objectName": "Pyramid_Grandfather'sDiary",
-            "itemName": "Archaeologist’s Journal",
+            "itemName": "Archaeologist's Journal",
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Scroll",
-            "itemDescription": "An Archaeologist’s Scribbled Journal #3",
+            "itemDescription": "An Archaeologist's Scribbled Journal #3",
             "itemText": "Could the curse be real after all?  \nWhat is this small pyramid?  \nI dug slightly next to it, and it seems deeply connected to underground tunnels.",
             "isVolatile": false
         },
         {
             "objectName": "Oasis_Grandfather'sDiary",
-            "itemName": "Archaeologist’s Journal",
+            "itemName": "Archaeologist's Journal",
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Scroll",
-            "itemDescription": "An Archaeologist’s Scribbled Journal #4",
-            "itemText": "I thought there would be water and ran toward it excitedly,  \nbut the oasis turned out to be a mirage.  \nThere’s a giant Stonehenge ruin on the opposite side—could it hold a clue?",
+            "itemDescription": "An Archaeologist's Scribbled Journal #4",
+            "itemText": "I thought there would be water and ran toward it excitedly,  \nbut the oasis turned out to be a mirage.  \nThere's a giant Stonehenge ruin on the opposite side—could it hold a clue?",
             "isVolatile": false
         },
         {
             "objectName": "Obelisk_Grandfather'sDiary",
-            "itemName": "Archaeologist’s Journal",
+            "itemName": "Archaeologist's Journal",
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Scroll",
-            "itemDescription": "An Archaeologist’s Scribbled Journal #5",
+            "itemDescription": "An Archaeologist's Scribbled Journal #5",
             "itemText": "The arrangement of these obelisks...  \nit perfectly replicates the shape of the Big Dipper.  \nWhat could it mean?  \nIs it a signal of hope or just another path to despair?  ",
             "isVolatile": false
         },
         {
             "objectName": "ShelterNearPyramid_Grandfather'sDiary",
-            "itemName": "Archaeologist’s Journal",
+            "itemName": "Archaeologist's Journal",
             "itemType": "Clue",
             "popUpType": "Normal",
             "sourceImage": "Scroll",
-            "itemDescription": "An Archaeologist’s Scribbled Journal #6",
-            "itemText": "I’ve collapsed from thirst in this wretched desert,  \ngotten up again to search for info about the jewel,  \nand died again somewhere else in this desert.  \nIt’s already been 375 days of this cursed cycle…  \nI don’t have the strength to endure this place any longer...",
+            "itemDescription": "An Archaeologist's Scribbled Journal #6",
+            "itemText": "I've collapsed from thirst in this wretched desert,  \ngotten up again to search for info about the jewel,  \nand died again somewhere else in this desert.  \nIt's already been 375 days of this cursed cycle…  \nI don't have the strength to endure this place any longer...",
             "isVolatile": false
         },
         {
@@ -1104,87 +1104,87 @@
             "itemType": "None",
             "popUpType": "Normal",
             "sourceImage": "Waypoint",
-            "itemText": "Forward - <color=\"yellow\">village</color>\n\nRight - <color=\"yellow\">Oasis",
+            "itemText": "Front - <color=\"yellow\">Village</color>\n\nRight - <color=\"yellow\">Oasis",
             "isVolatile": false
         },
         {
             "objectName": "Beaker",
-            "itemName": "비커",
+            "itemName": "Beaker",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Beaker",
-            "itemDescription": "실험실에서나 사용될 법한 비커이다.\n수집품 #1",
-            "itemText": "안에는 여러 색의 액체가 말라 붙어있다.\n사용된 액체가 무엇인지는 알 수 없으나 절대 실험실에서 사용될법한 액체가 아님은 분명하다.",
+            "itemDescription": "A beaker likely used in a laboratory.\nCollectible #1",
+            "itemText": "Various colors of liquid have dried inside.\nIt's unclear what was used, but it's certainly not something you'd find in a lab.",
             "isVolatile": true
         },
         {
             "objectName": "Strawberry",
-            "itemName": "딸기",
+            "itemName": "Strawberry",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Strawberry",
-            "itemDescription": "사막과는 상당히 어울리지 않는 과일.\n수집품 #8",
-            "itemText": "마을에서 고가에 거래되었겠지만 어째서인지 바닥에 묻혀있다.<br>우연히 떨어졌을지 주인과 같이 묻혔을지<br>신 만이 알 길이다.",
+            "itemDescription": "A fruit that doesn't quite suit the desert.\nCollectible #8",
+            "itemText": "It must have been traded for a high price in the village, but for some reason, it's buried in the ground.\nWhether it dropped by accident or was buried with its owner—only the gods would know.",
             "isVolatile": true
         },
         {
             "objectName": "Chicken",
-            "itemName": "병아리",
+            "itemName": "Chick",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Chicken",
-            "itemDescription": "어디서나 쉽게 볼 수 있는 병아리 인형\n수집품 #7",
-            "itemText": "어딘가에서 뜯겨져 나온 것 같다.\n꼭 모든 이가 구원자가 될 수는 없다.\n구원자는 구원해야 할 이가 없다면 존재할 수 없다.",
+            "itemDescription": "A chick doll commonly seen anywhere.\nCollectible #7",
+            "itemText": "Looks like it was torn off from somewhere.\nNot everyone can be a savior.\nA savior cannot exist without someone to save.",
             "isVolatile": true
         },
         {
             "objectName": "TeleScope",
-            "itemName": "망원경",
+            "itemName": "Telescope",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Telescope",
-            "itemDescription": "중세시대에 쓰였을 법한 단안식 망원경\n수집품 #5",
-            "itemText": "상자에 보관되어 보존이 잘 되어있다.\n주머니에 들어갈만한 작은 크기로,\n어쩐지 충분히 멀리 있는 숫자를 볼 수 있을 것 같다.",
+            "itemDescription": "A monocular telescope seemingly from the medieval era.\nCollectible #5",
+            "itemText": "Well-preserved in a box.\nSmall enough to fit in a pocket,\nand somehow, it feels like you could see faraway numbers clearly with it.",
             "isVolatile": true
         },
         {
             "objectName": "Ship",
-            "itemName": "해적선 장난감",
+            "itemName": "Pirate Ship Model",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Ship",
-            "itemDescription": "먼 과거 바다를 호령했던 해적왕의 배를 본딴 장난감\n수집품 #2",
-            "itemText": "해군들과의 수많은 전투를 거치며 곳곳에 영광의 상처를 얻은 모습이다.\n그의 모습이 사라진 후, 수많은 자들이 바닷속 어딘가 그의 부를 취하기 위해 육지를 떠났다.",
+            "itemDescription": "A toy modeled after the pirate king's ship that once ruled the seas.\nCollectible #2",
+            "itemText": "Covered in glorious scars from countless battles with the navy.\nAfter he vanished, many left the land, diving into the sea to claim his riches.",
             "isVolatile": true
         },
         {
             "objectName": "Silverbutton",
-            "itemName": "실버 버튼",
+            "itemName": "Silver Button",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Silverbutton",
-            "itemDescription": "알 수 없는 모양을 한 판자, 아래에 10만이라는 수가 적혀있다.\n수집품 #3",
-            "itemText": "은처럼 반짝이지만 은처럼 묵직하지는 않다.\n은처럼 묵직하지는 않지만 은 만큼 기분은 좋다.\n이유는 알 수 없다.",
+            "itemDescription": "A plank of unknown shape, with the number 100,000 written underneath.\nCollectible #3",
+            "itemText": "Shines like silver, but not as heavy.\nNot as heavy as silver, but just as pleasing.\nFor reasons unknown.",
             "isVolatile": true
         },
         {
             "objectName": "Rocket",
-            "itemName": "로켓",
+            "itemName": "Rocket",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Rocket",
-            "itemDescription": "인류가 화성에 도착하는데 사용됐던 로켓을 본뜬 장난감\n수집품 #4",
-            "itemText": "인류의 미래와 희망을 나타내는 상징적인 물건이다.\n무슨 뜻인지는 모르겠으나 아래 ‘에일리온 머스크’라고 작게 쓰여있다.",
+            "itemDescription": "A toy modeled after the rocket used to reach Mars.\nCollectible #4",
+            "itemText": "A symbolic item representing humanity's future and hope.\nIts meaning is unclear, but the words \"Alien Musk\" are faintly written below.",
             "isVolatile": true
         },
         {
             "objectName": "Mutant",
-            "itemName": "뮤턴트 인형",
+            "itemName": "Mutant Doll",
             "itemType": "Collection",
             "popUpType": "Normal",
             "sourceImage": "Mutant",
-            "itemDescription": "우주복을 입은 우주인의 모양을 한 듯한 인형\n수집품 #6",
-            "itemText": "풍파에 의해 많이 낡았다.\n누군가에게 팔리기 위해 만들어졌지만\n어떠한 이유로 폐기된 모양이다.",
+            "itemDescription": "A doll resembling an astronaut in a spacesuit.\nCollectible #6",
+            "itemText": "Worn out from exposure to the elements.\nIt was made to be sold to someone,\nbut for some reason, it seems to have been discarded.",
             "isVolatile": true
         }
     ]

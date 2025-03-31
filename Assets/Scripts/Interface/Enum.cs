@@ -25,5 +25,5 @@ public enum PopUpType
 }
 public enum LanguageType
 {
-    English, Korean
+    English = 0, Korean = 1
 }

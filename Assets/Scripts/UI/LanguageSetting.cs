@@ -28,12 +28,12 @@ public class LanguageSetting : MonoBehaviour
             case 0:
                 DataManager.Instance.LanguageType = LanguageType.English;
                 //로컬라이징 패키지 언어 변경
-                LocalizationSettings.SelectedLocale = 
+                LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[LanguageType.English.GetHashCode()];
                 break;
             case 1:
                 DataManager.Instance.LanguageType = LanguageType.Korean;
                 //로컬라이징 패키지 언어 변경
-                LocalizationSettings.SelectedLocale = LocalizedString.GetLocale("ko");
+                LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[LanguageType.Korean.GetHashCode()];
                 break;
         }
         //SceneManager.LoadScene(SceneManager.GetActiveScene().name);

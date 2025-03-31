@@ -63,6 +63,8 @@ public class ItemBase : MonoBehaviour, IInteractable
 
     private void Awake()
     {
+        DataManager.Instance.LanguageChangedEvent += OnLanguageChanged;
+
         InitializeData();
 
         if (_itemType != ItemType.Collection)
@@ -75,6 +77,10 @@ public class ItemBase : MonoBehaviour, IInteractable
             Destroy(gameObject.transform.parent.gameObject);
         }
         InitializeOutline();
+    }
+    private void OnLanguageChanged(LanguageType newLanguage)
+    {
+        InitializeData();
     }
     private void InitializeOutline()
     {
@@ -106,8 +112,8 @@ public class ItemBase : MonoBehaviour, IInteractable
     public virtual void OnHover()
     {
         //Debug.Log("On Hover");
-        if(_outLine == null)
-            _outLine= GetComponent<Outline>();
+        if (_outLine == null)
+            _outLine = GetComponent<Outline>();
         _outLine.enabled = true;
 
         ScreenManager.Instance.ShowInteractable();
@@ -136,11 +142,21 @@ public class ItemBase : MonoBehaviour, IInteractable
             Destroy(gameObject.transform.parent.gameObject);
 
         DataManager.Instance.CollectItem(_collectionType);
-        
+
         GetComponent<ObeliskBase>()?.ReadObelisk();
         GetComponent<LightSwitch>()?.TurnonLights();
         GetComponent<IsGemstoneAlive>()?.GetGemStone();
 
         if (_isKeyItem) DataManager.Instance.GetKeyItem(this);
+    }
+
+    void OnDestroy()
+    {
+        DataManager.Instance.LanguageChangedEvent -= OnLanguageChanged;
+        ScreenManager.Instance.HideInteractable();
+        if (gameObject == null) return;
+        if (gameObject.transform.parent == null) return;
+        if (gameObject.transform.parent.gameObject == null) return;
+        Destroy(gameObject.transform.parent.gameObject);
     }
 }

@@ -34,9 +34,13 @@ public class DataManager : MonoBehaviour
             {
                 languageType = value;
                 JsonReader.Instance.Initialize(languageType);
+                //이벤트를 통해 모든 ItemBase의 언어타입을 변경
+                LanguageChangedEvent?.Invoke(languageType);
             }
         }
     }
+    public delegate void OnLanguageChanged(LanguageType newLanguage);
+    public event OnLanguageChanged LanguageChangedEvent;
     private float _playerThirst;
     private List<CollectionType> _unCollectedItems = new List<CollectionType>();
     private Vector3 _startPoint;// = new Vector3(-19, -1.5f, 20);
