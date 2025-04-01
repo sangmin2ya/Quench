@@ -17,10 +17,12 @@ public class ToUnderWorld : MonoBehaviour, IInteractable
     public void OnHover()
     {
         _outLine.enabled = true;
+        ScreenManager.Instance.ShowEnterable();
     }
     public void OnHoverExit()
     {
         _outLine.enabled = false;
+        ScreenManager.Instance.HideEnterable();
     }
 
     public void OnInteract()

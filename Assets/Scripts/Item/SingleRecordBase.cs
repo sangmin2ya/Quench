@@ -50,13 +50,15 @@ public class SingleRecordBase : MonoBehaviour, IInteractable
 
     public virtual void OnHover()
     {
-        transform.Find("Check").gameObject.SetActive(true); 
+        transform.Find("Check").gameObject.SetActive(true);
+        ScreenManager.Instance.ShowInteractable(); 
     }
 
     public virtual void OnHoverExit()
     {
 
         transform.Find("Check").gameObject.SetActive(false);
+        ScreenManager.Instance.HideInteractable();
     }
 
     public virtual void OnInteract()

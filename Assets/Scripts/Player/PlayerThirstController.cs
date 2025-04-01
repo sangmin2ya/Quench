@@ -33,9 +33,6 @@ public class PlayerThirstController : MonoBehaviour
     private float _thirstMultiplier = 1;
     private TextMeshProUGUI _thirstText;
 
-    private bool _thirstyOnce1 = true;
-    private bool _thirstyOnce2 = true;
-    private bool _thirstyOnce3 = true;
     private bool _resetThirstOnce = true;
     private bool _blockFastForward = false;
     private Vector3 _initialPosition = new Vector3(-19, -1.5f, 20);
@@ -152,20 +149,20 @@ public class PlayerThirstController : MonoBehaviour
     /// </summary>
     void TriggerLowThirstWarning1(string thirstText)
     {
-        if (_thirstyOnce1)
+        if (DataManager.Instance._thirstyOnce1)
         {
             _thirstText.text = thirstText;
             StartCoroutine(FadeCoroutine(0));
-            _thirstyOnce1 = false;
+            DataManager.Instance._thirstyOnce1 = false;
         }
     }
     void TriggerLowThirstWarning2(string thirstText)
     {
-        if (_thirstyOnce2)
+        if (DataManager.Instance._thirstyOnce2)
         {
             _thirstText.text = thirstText;
             StartCoroutine(FadeCoroutine(0));
-            _thirstyOnce2 = false;
+            DataManager.Instance._thirstyOnce2 = false;
         }
     }
     void TriggerLowThirstWarning3(string thirstText)
@@ -173,11 +170,11 @@ public class PlayerThirstController : MonoBehaviour
         Color color = new Color(_thirstEffectColor.r, _thirstEffectColor.g, _thirstEffectColor.b, 1 - Mathf.Max(0, _currentThirst / _lowThirstThreshold3));
         GameObject.Find("Dying").GetComponent<PostProcessVolume>().weight = 1 - Mathf.Max(0, _currentThirst / _lowThirstThreshold3);
         _thirstEffect.color = color;
-        if (_thirstyOnce3)
+        if (DataManager.Instance._thirstyOnce3)
         {
             _thirstText.text = thirstText;
             StartCoroutine(FadeCoroutine(0));
-            _thirstyOnce3 = false;
+            DataManager.Instance._thirstyOnce3 = false;
         }
     }
     public void TriggerRunWarning(string runText)

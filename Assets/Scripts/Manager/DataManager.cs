@@ -52,6 +52,11 @@ public class DataManager : MonoBehaviour
     public float _deathCount = 0;
     public float RotationSpeed = 0.5f;
     public float SoundVolume = 1f;
+    public float FieldOfView = 50;
+    public bool _thirstyOnce1 = true;
+    public bool _thirstyOnce2 = true;
+    public bool _thirstyOnce3 = true;
+    public bool _canGoSetting = true;
     private Dictionary<AreaType, HashSet<string>> _keyItems = new Dictionary<AreaType, HashSet<string>>();
     private void Awake()
     {

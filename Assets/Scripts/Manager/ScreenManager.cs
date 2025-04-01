@@ -56,6 +56,7 @@ public class ScreenManager : MonoBehaviour
 
     // interactable
     private GameObject _interactGuide;
+    private GameObject _enterableGuide;
 
     private string _viewMode;
 
@@ -83,12 +84,17 @@ public class ScreenManager : MonoBehaviour
     {
         // �ʱ�ȭ
         _postProc = Camera.main.GetComponent<PostProcessVolume>();
-        _popUpMenu = GameObject.Find("Canvas").transform.Find("ItemPopUp").gameObject;
-        _listedPopUpMenu = GameObject.Find("Canvas").transform.Find("ListedPopUp").gameObject;
+        _popUpMenu = GameObject.Find("Canvas")?.transform.Find("ItemPopUp")?.gameObject;
+        _listedPopUpMenu = GameObject.Find("Canvas")?.transform.Find("ListedPopUp")?.gameObject;
         if (_interactGuide == null)
         {
             _interactGuide = GameObject.Find("InteractGuide").gameObject;
             _interactGuide.SetActive(false);
+        }
+        if (_enterableGuide == null)
+        {
+            _enterableGuide = GameObject.Find("EnterableGuide").gameObject;
+            _enterableGuide.SetActive(false);
         }
         _popUpType = PopUpType.None;
         _sourceImage = null;
@@ -559,6 +565,18 @@ public class ScreenManager : MonoBehaviour
         if (_interactGuide == null) return;
 
         _interactGuide.SetActive(false);
+    }
+    public void ShowEnterable()
+    {
+        if (_enterableGuide == null) return;
+
+        _enterableGuide.SetActive(true);
+    }
+    public void HideEnterable()
+    {
+        if (_enterableGuide == null) return;
+
+        _enterableGuide.SetActive(false);
     }
 
     #endregion

@@ -187,9 +187,15 @@ public class CameraController : MonoBehaviour
         yield return new WaitForSeconds(4f);
 
         animator.ResetTrigger("isBlinking");
+        
+        DataManager.Instance._thirstyOnce1 = true;
+        DataManager.Instance._thirstyOnce2 = true;
+        DataManager.Instance._thirstyOnce3 = true;
+        DataManager.Instance._reviveInfo = true;
+
         DataManager.Instance.setPlayerThirst(100f);
         DataManager.Instance._getGemstone = false;
-        DataManager.Instance.SetStartPoint(new Vector3(-20.5f, -1.5f, 28));
+        DataManager.Instance.SetStartPoint(new Vector3(-20.3f, -1.5f, 28));
         firstPersonController.SetIfPlayerCanMove(true);
         SceneManager.LoadScene("Main");//Change it to Main Scene later
     }

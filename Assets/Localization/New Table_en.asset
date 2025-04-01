@@ -31,7 +31,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1504755539968
-    m_Localized: LEAVE DESERT
+    m_Localized: LEAVE
     m_Metadata:
       m_Items: []
   - m_Id: 1768799559680
@@ -44,6 +44,25 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 4385642602496
     m_Localized: '[ESC] RETURN TO GAME'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15596941697024
+    m_Localized: <color=green>[E]</color> ENTER UNDERWORLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30341702836224
+    m_Localized: STAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32235854716928
+    m_Localized: DO YOU WANT TO ESCAPE?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34586812440576
+    m_Localized: '<color="yellow">ENDING</color>
+
+
+      You''ve escaped the desert.'
     m_Metadata:
       m_Items: []
   references:

@@ -7,7 +7,7 @@
             "popUpType": "Book",
             "sourceImage": "Constellation book_eng",
             "itemDescription": "-",
-            "itemText": "Polaris is the star that always stays in the north.\n\nThere are two easy ways to find Polaris.\n\n 1) If you know where north is, look toward it at night.  \n 2) Look at the arrangement of the nearby constellations and estimate the distance like in the picture.",
+            "itemText": "Polaris is the star that always stays in the north.\nThere are two easy ways to find Polaris.\n1) If you know where north is, look toward it at night.  \n 2) Look at the arrangement of the nearby constellations and estimate the distance like in the picture.",
             "isVolatile": false
         },
         {
@@ -37,7 +37,7 @@
             "popUpType": "Book",
             "sourceImage": "TradeRecords_eng",
             "itemDescription": "-",
-            "itemText": "Record of traded goods  \nAside from one <color=\"\"yellow\"\">notable trade<\/color>,  \nmost were with the caravan.",
+            "itemText": "Record of traded goods  \nAside from one <color=\"yellow\">notable trade<\/color>,  \nmost were with the caravan.",
             "isVolatile": false
         },
         {
@@ -87,7 +87,7 @@
             "popUpType": "Normal",
             "sourceImage": "Scroll",
             "itemDescription": "Dropped from Someone's Bag",
-            "itemText": "(-) To xxx (-)  \nSo far, it seems this <color=\"\"yellow\"\">obelisk<\/color> has a strong connection to the <color=\"\"yellow\"\">entrance to the underworld<\/color>.  \nPlease search for more information about this from the nearby village.  \n\n(The rest of the note is too damaged to read.)",
+            "itemText": "(-) To xxx (-)  \nSo far, it seems this <color=\"yellow\">obelisk<\/color> has a strong connection to the <color=\"yellow\">entrance to the underworld<\/color>.  \nPlease search for more information about this from the nearby village.  \n\n(The rest of the note is too damaged to read.)",
             "isVolatile": false
         },
         {
@@ -97,7 +97,7 @@
             "popUpType": "Normal",
             "sourceImage": "Scroll",
             "itemDescription": "Seems to Indicate a Location",
-            "itemText": "(-) Trade rendezvous  \nSeen between <color=\"\"yellow\"\">arch-shaped rocks<\/color>,  \nthe <color=\"\"yellow\"\">caravan symbol<\/color> points the way.  \nThe signal is made using a campfire.",
+            "itemText": "(-) Trade rendezvous  \nSeen between <color=\"yellow\">arch-shaped rocks<\/color>,  \nthe <color=\"yellow\">caravan symbol<\/color> points the way.  \nThe signal is made using a campfire.",
             "isVolatile": false
         },
         {
@@ -107,7 +107,7 @@
             "popUpType": "Normal",
             "sourceImage": "Scroll",
             "itemDescription": "A Scroll Listing Caravan Names",
-            "itemText": "Names of caravans active in this desert are written densely.  \nMany used to operate here, but most names are now erased—only one remains.  \nCheck the <color=\"\"yellow\"\">right flag<\/color>.",
+            "itemText": "Names of caravans active in this desert are written densely.  \nMany used to operate here, but most names are now erased—only one remains.  \nCheck the <color=\"yellow\">right flag<\/color>.",
             "isVolatile": false
         },
         {
@@ -117,7 +117,7 @@
             "popUpType": "Normal",
             "sourceImage": "Book",
             "itemDescription": "Diary with Most Pages Torn Out",
-            "itemText": "(-) March 5, xxxx  \nI heard from the caravans that <color=\"\"yellow\"\">some treasure<\/color> is buried here. I was tempted, but they warned me so much about a <color=\"\"yellow\"\">terrible curse<\/color> that I gave up. Ha, as if curses are real.\n\n(-) April 11, xxxx  \nLately, tomb robbers have been snooping around here,  \nseemingly searching for <color=\"\"yellow\"\">something<\/color>.  \nI heard they even set up a <color=\"\"yellow\"\">camp<\/color> near the oasis...",
+            "itemText": "(-) March 5, xxxx  \nI heard from the caravans that <color=\"yellow\">some treasure<\/color> is buried here. I was tempted, but they warned me so much about a <color=\"yellow\">terrible curse<\/color> that I gave up. Ha, as if curses are real.\n\n(-) April 11, xxxx  \nLately, tomb robbers have been snooping around here,  \nseemingly searching for <color=\"yellow\">something<\/color>.  \nI heard they even set up a <color=\"yellow\">camp<\/color> near the oasis...",
             "isVolatile": false
         },
         {
@@ -127,7 +127,7 @@
             "popUpType": "Normal",
             "sourceImage": "CaravanFlag",
             "itemDescription": "A Red Twin Rock Symbol, the Mark of the Caravan",
-            "itemText": "The <color=\"\"yellow\"\">Twin Rock Caravan<\/color> has crossed this desert for centuries.  \nThey know how to survive here better than anyone.  \nThe <color=\"\"yellow\"\">red twin stone symbol<\/color> was taken from their favored resting spots.",
+            "itemText": "The <color=\"yellow\">Twin Rock Caravan<\/color> has crossed this desert for centuries.  \nThey know how to survive here better than anyone.  \nThe <color=\"yellow\">red twin stone symbol<\/color> was taken from their favored resting spots.",
             "isVolatile": false
         },
         {
@@ -137,7 +137,7 @@
             "popUpType": "Normal",
             "sourceImage": "CaravanFlag",
             "itemDescription": "A Red Twin Rock Symbol, the Mark of the Caravan",
-            "itemText": "The <color=\"\"yellow\"\">Twin Rock Caravan<\/color> has crossed this desert for centuries.  \nThey know how to survive here better than anyone.  \nThe <color=\"\"yellow\"\">red twin stone symbol<\/color> was taken from their favored resting spots.",
+            "itemText": "The <color=\"yellow\">Twin Rock Caravan<\/color> has crossed this desert for centuries.  \nThey know how to survive here better than anyone.  \nThe <color=\"yellow\">red twin stone symbol<\/color> was taken from their favored resting spots.",
             "isVolatile": false
         },
         {
@@ -167,7 +167,7 @@
             "popUpType": "Normal",
             "sourceImage": "Book",
             "itemDescription": "Sailor's Log",
-            "itemText": "I have no idea how to escape this sea.  \nHow long have we been going in circles here...?  \n<color=\"\"yellow\"\">Something<\/color> is definitely trying to trap us here.",
+            "itemText": "I have no idea how to escape this sea.  \nHow long have we been going in circles here...?  \n<color=\"yellow\">Something<\/color> is definitely trying to trap us here.",
             "isVolatile": false
         },
         {
@@ -177,7 +177,7 @@
             "popUpType": "Normal",
             "sourceImage": "SignBoard",
             "itemDescription": "Worn and Torn Signboard",
-            "itemText": "A sign that fell when the entrance collapsed.  \n“<color=\"\"red\"\">Tomb Robbers' Camp<\/color>“",
+            "itemText": "A sign that fell when the entrance collapsed.  \n“<color=\"red\">Tomb Robbers' Camp<\/color>“",
             "isVolatile": false
         },
         {
@@ -887,7 +887,7 @@
             "popUpType": "Normal",
             "sourceImage": "Hieroglyph",
             "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">1<\/color>",
-            "itemText": "At the beginning of time, Sun God Ra created all things, foresaw their beginning and end, and felt a deep sorrow. Thus, a tear fell from his eye. ",
+            "itemText": "At the beginning of time, Sun God Ra created all things, foresaw their beginning and end, and felt a deep sorrow. Thus, a tear fell from his eye.",
             "isVolatile": false
         },
         {
@@ -897,7 +897,7 @@
             "popUpType": "Normal",
             "sourceImage": "Hieroglyph",
             "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">2<\/color>",
-            "itemText": "That tear landed on earth and turned into a brilliant jewel,  ",
+            "itemText": "That tear landed on earth and turned into a brilliant jewel.\nThe humans worshiped it, calling it the <color=yellow>'Tear of the Sun'<\/color>.",
             "isVolatile": false
         },
         {
@@ -907,7 +907,7 @@
             "popUpType": "Normal",
             "sourceImage": "Hieroglyph",
             "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">3<\/color>",
-            "itemText": "which humans came to worship as the <color=\"\"yellow\"\">'Tear of the Sun'<\/color>.",
+            "itemText": "Whoever possesses this sacred <color=\"yellow\">'Tear of the Sun'<\/color>\nshall wield divine power to control the swirling <color=\"yellow\">flow of time<\/color>",
             "isVolatile": false
         },
         {
@@ -917,7 +917,7 @@
             "popUpType": "Normal",
             "sourceImage": "Hieroglyph",
             "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">4<\/color>",
-            "itemText": "Whoever possesses this sacred <color=\"yellow\">'Tear of the Sun'<\/color>  \nshall wield divine power to control the swirling <color=\"yellow\">flow of time<\/color>",
+            "itemText": "Thus, the world was stained in blood by those greedy to reclaim time with the <color=\"yellow\">'Tear of the Sun'<\/color>.",
             "isVolatile": false
         },
         {
@@ -927,7 +927,7 @@
             "popUpType": "Normal",
             "sourceImage": "Hieroglyph",
             "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">5<\/color>",
-            "itemText": "Thus, the world was stained in blood by those greedy to reclaim time with the <color=\"yellow\">'Tear of the Sun'<\/color>.  \nWitnessing this tragedy, Sun God Ra built a <color=\"yellow\">giant pyramid<\/color> deep underground  \nand sealed the <color=\"yellow\">'Tear of the Sun'<\/color> within its heart so it could never be released again.",
+            "itemText": "Witnessing this tragedy, Sun God Ra built a <color=\"yellow\">giant pyramid<\/color> deep underground\nand sealed the <color=\"yellow\">'Tear of the Sun'<\/color> within its heart so it could never be released again.",
             "isVolatile": false
         },
         {
@@ -947,7 +947,7 @@
             "popUpType": "Normal",
             "sourceImage": "Hieroglyph",
             "itemDescription": "Large Obelisk Engraved with the Number <color=\"yellow\">7<\/color>",
-            "itemText": "Foolish mortals who covet divine power, you will be trapped in this desolate desert,  \nendlessly repeating the cycle of agony and thirst in eternal torment.",
+            "itemText": "Foolish mortals who covet divine power, you will be trapped in this desolate desert,\nendlessly repeating the cycle of agony and thirst in eternal torment.",
             "isVolatile": false
         },
         {
@@ -1007,7 +1007,7 @@
             "popUpType": "Normal",
             "sourceImage": "Sign",
             "itemDescription": "Warning Sign",
-            "itemText": "In red ink, heavily emphasized, the note reads:  \n\"<color=\"\"red\"\">Stop slacking and go to the<\/color> <color=\"\"yellow\"\">Stonehenge<\/color><color=\"\"red\"\"> on the other side to gather stones!<\/color>\"",
+            "itemText": "In red ink, heavily emphasized, the note reads:  \n\"<color=\"red\">Stop slacking and go to the<\/color> <color=\"yellow\">Stonehenge<\/color><color=\"red\"> on the other side to gather stones!<\/color>\"",
             "isVolatile": false
         },
         {
@@ -1017,7 +1017,7 @@
             "popUpType": "Normal",
             "sourceImage": "Memo",
             "itemDescription": "Faded and Old Note",
-            "itemText": "A crumpled note, origin unknown.  \nIt reads:  \n\"<color=\"\"red\"\">Light the passage already. Can't you see your way back to camp?<\/color>\"",
+            "itemText": "A crumpled note, origin unknown.\nIt reads: \n\"<color=\"red\">Don't forget to light the passage. Can you see your way back to camp?<\/color>\"",
             "isVolatile": false
         },
         {
@@ -1037,7 +1037,7 @@
             "popUpType": "Normal",
             "sourceImage": "Scroll",
             "itemDescription": "An Archaeologist's Scribbled Journal #1",
-            "itemText": "I've come this far—I can't give up on the <color=\"yellow\">‘Tear of the Sun'<\/color>.  \nFor my daughter, unjustly slain, and my grandson who must live without a mother,  \nI must turn back time.  ",
+            "itemText": "I've come this far—I can't give up on the <color=\"yellow\">'Tear of the Sun'<\/color>.  \nFor my daughter, unjustly slain, and my grandson who must live without a mother,  \nI must turn back time.  ",
             "isVolatile": false
         },
         {
@@ -1105,6 +1105,25 @@
             "popUpType": "Normal",
             "sourceImage": "Waypoint",
             "itemText": "Front - <color=\"yellow\">Village</color>\n\nRight - <color=\"yellow\">Oasis",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_Zeolite",
+            "itemName": "Broken Tablet",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "tablet",
+            "itemDescription": "A massive stone tablet of unknown origin",
+            "itemText": "\"... enough sacrifices... upon reaching the end, wealth and life will be granted ...\"\n(Most of the text is illegible due to the passage of time)",
+            "isVolatile": false
+        },
+        {
+            "objectName": "Underground_ShortcutClue",
+            "itemName": "Scroll with Hieroglyphs",
+            "itemType": "Clue",
+            "popUpType": "Normal",
+            "sourceImage": "Scroll",
+            "itemText": "A sheet of paper is inscribed with symbols that ordinary grave robbers would only imagine in pictures.\nIn ancient language, it reads:\n\"<color=red>The far-right torch right after enterance</color>\"",
             "isVolatile": false
         },
         {

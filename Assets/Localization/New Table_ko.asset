@@ -46,6 +46,22 @@ MonoBehaviour:
     m_Localized: "[ESC] \uAC8C\uC784\uC73C\uB85C \uB3CC\uC544\uAC00\uAE30"
     m_Metadata:
       m_Items: []
+  - m_Id: 15596941697024
+    m_Localized: "<color=green>[E]</color> \uC9C0\uD558\uC138\uACC4\uB85C \uB4E4\uC5B4\uAC00\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30341702836224
+    m_Localized: "\uBA38\uBB34\uB974\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32235854716928
+    m_Localized: "\uD0C8\uCD9C \uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34586812440576
+    m_Localized: "<color=\"yellow\">ENDING</color>\n\n\uC0AC\uB9C9\uC744 \uD0C8\uCD9C\uD558\uC600\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

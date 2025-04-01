@@ -7,7 +7,7 @@
       "popUpType": "Book",
       "sourceImage": "Constellation book_kor",
       "itemDescription": "-",
-      "itemText": "북극성은 항상 북쪽에 머무는 별이다.\n\n북극성을 쉽게 찾는 두 가지 방법이 있다.\n\n 1) 북쪽을 알고 있다면 밤에 북쪽을 바라본다.\n 2) 주변 별자리의 배치를 보고, 그림처럼 거리를 재 찾아낸다.",
+      "itemText": "북극성은 항상 북쪽에 머무는 별이다.\n\n북극성을 쉽게 찾는 두 가지 방법이 있다.\n1) 북쪽을 알고 있다면 밤에 북쪽을 바라본다.\n 2) 주변 별자리의 배치를 보고, 그림처럼 거리를 재 찾아낸다.",
       "isVolatile": false
     },
     {
@@ -1105,6 +1105,25 @@
       "popUpType": "Normal",
       "sourceImage": "Waypoint",
       "itemText": "정면 - <color=\"yellow\">마을</color>\n\n오른쪽 - <color=\"yellow\">오아시스",
+      "isVolatile": false
+    },
+    {
+      "objectName": "Underground_Zeolite",
+      "itemName": "부서진 석판",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "tablet",
+      "itemDescription": "언제 만들어졌는지도 모를 거대한 석판",
+      "itemText": "\"... 많은 희생.... 끝에 도달하면 부와 생명을 얻게 ...\"\n( 세월에 의해 많은 글자가 지워져 잘 보이지 않는다 )",
+      "isVolatile": false
+    },
+    {
+      "objectName": "Underground_ShortcutClue",
+      "itemName": "상형문자가 적힌 스크롤",
+      "itemType": "Clue",
+      "popUpType": "Normal",
+      "sourceImage": "Scroll",
+      "itemText": "평범한 도굴꾼들은 그림으로나 생각할 법한 문자가 적힌 종이가 놓여있다.\n고대 xx 언어로 다음과 같이 쓰여 있다.\"<color=red>들어간 직후 오른쪽 가장 끝 횃불</color>\"",
       "isVolatile": false
     },
     {

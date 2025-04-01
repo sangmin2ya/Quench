@@ -21,6 +21,7 @@ public class FovSetting : MonoBehaviour
         fovText = transform.Find("FovSettingTxt").GetComponent<TextMeshProUGUI>();
         playerCamera = GameObject.Find("PlayerFollowCamera").GetComponent<CinemachineVirtualCamera>();
         dyingCamera = GameObject.Find("DeathCollapse Camera").GetComponent<CinemachineVirtualCamera>();
+        currentFov = DataManager.Instance.FieldOfView; // DataManager에서 FOV 값 가져오기
         fovSlider.value = currentFov;
         UpdateFovText(fovSlider.value);
 
@@ -31,8 +32,9 @@ public class FovSetting : MonoBehaviour
     public void OnFovChanged(float value)
     {
         currentFov = fovSlider.value;
-        playerCamera.m_Lens.FieldOfView = Mathf.Lerp(minFov, maxFov, currentFov / 100f);
-        dyingCamera.m_Lens.FieldOfView = Mathf.Lerp(minFov, maxFov, currentFov / 100f);
+        DataManager.Instance.FieldOfView = currentFov; // DataManager에 FOV 값 저장
+        playerCamera.m_Lens.FieldOfView = currentFov;
+        dyingCamera.m_Lens.FieldOfView = currentFov;
         UpdateFovText(value);
     }
 

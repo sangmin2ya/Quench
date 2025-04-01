@@ -1,7 +1,5 @@
 using StarterAssets;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Escape : MonoBehaviour, IInteractable
@@ -48,9 +46,9 @@ public class Escape : MonoBehaviour, IInteractable
         GameObject.Find("PlayerCapsule").GetComponent<FirstPersonController>().enabled = false;
         GameObject.Find("PlayerCapsule").GetComponent<PlayerThirstController>().enabled = false;
         _escapeCanvas.SetActive(true);
-        _escapeCanvas.GetComponent<CollectionCount>().SetData();
         Cursor.lockState = CursorLockMode.Confined;
         Cursor.visible = true;
+        DataManager.Instance._canGoSetting = false;
     }
     public void StayGame()
     {
@@ -61,13 +59,17 @@ public class Escape : MonoBehaviour, IInteractable
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
         //SceneManager.LoadScene("Desert");
+        DataManager.Instance._canGoSetting = true;
+
     }
     public void EscapeGame()
     {
         GameObject.Find("Canvas/Ending/Button").GetComponent<Button>().interactable = true;
+        GameObject.Find("Canvas/Ending/Button1").GetComponent<Button>().interactable = true;
         _escapeCanvas.SetActive(false);
         Debug.Log("Escape Desert");
         _dollCam.SetActive(true);
+        DataManager.Instance._canGoSetting = false;
         //SceneManager.LoadScene("Main");
     }
 }
